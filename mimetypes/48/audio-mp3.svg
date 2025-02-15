@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="48"
    height="48"
    viewBox="0 0 48 48"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="audio-mp3.svg">
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="audio-mp3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title7895">Antu icon Theme</title>
   <defs
@@ -27,17 +27,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="19.543572"
-     inkscape:cy="18.880643"
+     inkscape:zoom="45.254834"
+     inkscape:cx="31.70932"
+     inkscape:cy="29.256543"
      inkscape:document-units="px"
      inkscape:current-layer="g871"
      showgrid="true"
      units="px"
-     inkscape:window-width="1874"
-     inkscape:window-height="1141"
-     inkscape:window-x="46"
-     inkscape:window-y="30"
+     inkscape:window-width="2160"
+     inkscape:window-height="1330"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -48,7 +48,10 @@
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true">
+     inkscape:snap-intersection-paths="true"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid7897"
@@ -99,14 +102,18 @@
            id="g9699-3"
            transform="translate(49.390235,-20.499996)">
           <path
-             sodipodi:nodetypes="sssssssssssssssccccsssscccsssssssssscccccsssscccsssssssssssssssssssssssss"
+             sodipodi:nodetypes="ccccssssccccccccssssccc"
              id="path9351-2"
              transform="translate(-49.390235,287.64999)"
-             d="m 14.558594,6 c -0.831,0 -1.5,0.669 -1.5,1.5 0,0.831 0.669,1.5 1.5,1.5 0.831,0 1.5,-0.669 1.5,-1.5 0,-0.831 -0.669,-1.5 -1.5,-1.5 z M 9.5585938,8 c -0.831,0 -1.5000001,0.669 -1.5,1.5 0,0.831 0.669,1.5 1.5,1.5 0.8309992,0 1.5000002,-0.669 1.5000002,-1.5 0,-0.831 -0.669001,-1.5 -1.5000002,-1.5 z m 5.0000002,3 c -0.831,0 -1.5,0.669 -1.5,1.5 0,0.831 0.669,1.5 1.5,1.5 0.831,0 1.5,-0.669 1.5,-1.5 0,-0.831 -0.669,-1.5 -1.5,-1.5 z M 25,13 19,15 v 5 3.275391 C 18.528743,23.108744 18.029737,23 17.5,23 15.007001,23 13,25.007001 13,27.5 13,29.992999 15.007001,32 17.5,32 19.992999,32 22,29.992999 22,27.5 V 19 l 3,-1 z M 9.5585938,13 c -0.831,0 -1.5000001,0.669 -1.5,1.5 0,0.831 0.669,1.5 1.5,1.5 0.8309992,0 1.5000002,-0.669 1.5000002,-1.5 0,-0.831 -0.669001,-1.5 -1.5000002,-1.5 z m 0,5 c -0.831,0 -1.5000001,0.669 -1.5,1.5 0,0.831 0.669,1.5 1.5,1.5 0.8309992,0 1.5000002,-0.669 1.5000002,-1.5 0,-0.831 -0.669001,-1.5 -1.5000002,-1.5 z M 33,22 28,24 v 2 2 2.345703 C 27.544438,30.129513 27.039614,30 26.5,30 24.561,30 23,31.56099 23,33.5 23,35.43901 24.561,37 26.5,37 28.439003,37 30,35.43901 30,33.5 V 27.199219 L 33,26 Z m 5,6 c -0.831,0 -1.5,0.669 -1.5,1.5 0,0.831 0.669,1.5 1.5,1.5 0.831,0 1.5,-0.669 1.5,-1.5 C 39.5,28.669 38.831,28 38,28 Z m 0,5 c -0.831,0 -1.5,0.669 -1.5,1.5 0,0.831 0.669,1.5 1.5,1.5 0.831,0 1.5,-0.669 1.5,-1.5 C 39.5,33.669 38.831,33 38,33 Z m -5,2 c -0.831,0 -1.5,0.669 -1.5,1.5 0,0.831 0.669,1.5 1.5,1.5 0.831,0 1.5,-0.669 1.5,-1.5 C 34.5,35.669 33.831,35 33,35 Z m 5,3 c -0.831,0 -1.5,0.669 -1.5,1.5 0,0.831 0.669,1.5 1.5,1.5 0.831,0 1.5,-0.669 1.5,-1.5 C 39.5,38.669 38.831,38 38,38 Z m -5,2 c -0.831,0 -1.5,0.669 -1.5,1.5 0,0.831 0.669,1.5 1.5,1.5 0.831,0 1.5,-0.669 1.5,-1.5 C 34.5,40.669 33.831,40 33,40 Z"
-             style="opacity:1;fill:#eff0f3;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-opacity:1"
+             d="m 25,13 -6,2 v 5 3.275391 C 18.528743,23.108744 18.029737,23 17.5,23 15.007001,23 13,25.007001 13,27.5 13,29.992999 15.007001,32 17.5,32 19.992999,32 22,29.992999 22,27.5 V 19 l 3,-1 z m 8,9 -5,2 v 2 2 2.345703 C 27.544438,30.129513 27.039614,30 26.5,30 24.561,30 23,31.56099 23,33.5 23,35.43901 24.561,37 26.5,37 28.439003,37 30,35.43901 30,33.5 V 27.199219 L 33,26 Z"
+             style="opacity:1;fill:#eff0f3;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
              inkscape:connector-curvature="0" />
         </g>
       </g>
+      <path
+         id="path37479"
+         style="fill:#eff0f3;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+         d="m 38.5,339.64999 c -0.830998,0 -1.5,0.669 -1.5,1.5 0,0.831 0.669002,1.5 1.5,1.5 0.830998,0 1.5,-0.669 1.5,-1.5 0,-0.831 -0.669002,-1.5 -1.5,-1.5 z m -5,2 c -0.830998,0 -1.5,0.669 -1.5,1.5 0,0.83099 0.669002,1.5 1.5,1.5 0.830997,0 1.5,-0.66901 1.5,-1.5 0,-0.831 -0.669003,-1.5 -1.5,-1.5 z m 5,3 c -0.830998,0 -1.5,0.669 -1.5,1.5 0,0.83099 0.669002,1.5 1.5,1.5 0.830998,0 1.5,-0.66901 1.5,-1.5 0,-0.831 -0.669002,-1.5 -1.5,-1.5 z m -5,2 c -0.830998,0 -1.5,0.669 -1.5,1.5 0,0.83099 0.669002,1.5 1.5,1.5 0.830997,0 1.5,-0.66901 1.5,-1.5 0,-0.831 -0.669003,-1.5 -1.5,-1.5 z m 0,5 c -0.830998,0 -1.5,0.669 -1.5,1.5 0,0.831 0.669002,1.5 1.5,1.5 0.830997,0 1.5,-0.669 1.5,-1.5 0,-0.831 -0.669003,-1.5 -1.5,-1.5 z m 29,10 c -0.830998,0 -1.5,0.669 -1.5,1.5 0,0.831 0.669002,1.5 1.5,1.5 0.830998,0 1.5,-0.669 1.5,-1.5 0,-0.831 -0.669002,-1.5 -1.5,-1.5 z m 0,5 c -0.830998,0 -1.5,0.669 -1.5,1.5 0,0.831 0.669002,1.5 1.5,1.5 0.830998,0 1.5,-0.669 1.5,-1.5 0,-0.831 -0.669002,-1.5 -1.5,-1.5 z m -5,2 c -0.830998,0 -1.5,0.669 -1.5,1.5 0,0.831 0.669002,1.5 1.5,1.5 0.830998,0 1.5,-0.669 1.5,-1.5 0,-0.831 -0.669002,-1.5 -1.5,-1.5 z m 5,3 c -0.830998,0 -1.5,0.669 -1.5,1.5 0,0.831 0.669002,1.5 1.5,1.5 0.830998,0 1.5,-0.669 1.5,-1.5 0,-0.831 -0.669002,-1.5 -1.5,-1.5 z m -5,2 c -0.830998,0 -1.5,0.669 -1.5,1.5 0,0.831 0.669002,1.5 1.5,1.5 0.830998,0 1.5,-0.669 1.5,-1.5 0,-0.831 -0.669002,-1.5 -1.5,-1.5 z" />
     </g>
   </g>
 </svg>

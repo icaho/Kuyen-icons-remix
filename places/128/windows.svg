@@ -7,7 +7,7 @@
    viewBox="0 0 33.866666 33.866666"
    version="1.1"
    id="svg8"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="windows.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -47,9 +47,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="119.95561"
-     inkscape:cy="72.857252"
+     inkscape:zoom="5.6"
+     inkscape:cx="96.785714"
+     inkscape:cy="86.964285"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -62,8 +62,8 @@
      inkscape:snap-bbox-midpoints="true"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
-     inkscape:window-width="2160"
-     inkscape:window-height="1337"
+     inkscape:window-width="2560"
+     inkscape:window-height="1363"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -116,6 +116,7 @@
     <path
        id="rect11376"
        style="fill:#e8f5ff;stroke-width:0.584256;stroke-linecap:round;stroke-linejoin:round"
-       d="m 8.202083,271.33541 v 8.46667 h 8.466667 v -8.46667 z m 8.995833,0 v 8.46667 h 8.466667 v -8.46667 z m -8.995833,8.99583 v 8.46667 h 8.466667 v -8.46667 z m 8.995833,0 v 8.46667 h 8.466667 v -8.46667 z" />
+       d="m 7.9374995,271.07082 v 8.46667 h 8.4666665 v -8.46667 z m 9.5249995,0 v 8.46667 h 8.466667 v -8.46667 z m -9.5249992,9.52501 v 8.46667 h 8.4666662 v -8.46667 z m 9.5249992,-10e-6 v 8.46667 h 8.466667 v -8.46667 z"
+       sodipodi:nodetypes="cccccccccccccccccccc" />
   </g>
 </svg>

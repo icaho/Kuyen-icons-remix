@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="application-x-audacity-project.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title7895">Antu icon Theme</title>
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-2"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-0"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.313709"
+     inkscape:cx="23.025164"
+     inkscape:cy="24.748736"
+     inkscape:document-units="px"
+     inkscape:current-layer="g2217"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="2160"
+     inkscape:window-height="1330"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7897"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Antu icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-266.64999)">
+    <g
+       id="g2217"
+       transform="translate(30.000001,16.999985)">
+      <g
+         id="g49676"
+         transform="translate(-33.000001,-33.99999)">
+        <g
+           id="g8745"
+           transform="translate(-30.16756,41.728085)">
+          <path
+             inkscape:connector-curvature="0"
+             id="rect6397-1-8"
+             d="m 41.16756,243.92191 h 32 c 1.662,0 3,1.33798 3,3 v 38 c 0,1.66197 -1.338,3 -3,3 h -32 c -1.661998,0 -3,-1.33803 -3,-3 v -38 c 0,-1.66202 1.338002,-3 3,-3 z"
+             style="opacity:1;fill:#2764c9;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:18;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+          <path
+             sodipodi:nodetypes="sssssssss"
+             inkscape:connector-curvature="0"
+             id="rect6399-4-97"
+             d="m 41.16756,244.92191 h 32 c 1.108001,0 2,0.892 2,2.00001 v 38 c 0,1.10797 -0.891999,1.99997 -2,1.99997 h -32 c -1.107998,0 -2,-0.892 -2,-1.99997 v -38 c 0,-1.10801 0.892002,-2.00001 2,-2.00001 z"
+             style="opacity:1;fill:#4f8df8;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:18;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+        </g>
+        <g
+           id="path47998"
+           style="fill:#fafcff;fill-opacity:1"
+           transform="translate(-429,-52.499965)">
+          <path
+             id="path48606"
+             style="color:#000000;fill:#fafcff;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.8;paint-order:stroke fill markers"
+             d="m 456,348.14997 c -6.09395,0 -11,4.90605 -11,11 v 1.25977 c -0.83003,0.57808 -1.54014,1.33548 -2.0625,2.24023 -1.24963,2.16442 -1.24963,4.83558 0,7 1.24963,2.16442 3.56325,3.5 6.0625,3.5 a 1.0001,1.0001 0 0 0 1,-1 v -5 h 1.95508 a 1.0001,1.0001 0 0 0 0.92773,-0.62891 l 0.9375,-2.34375 2.17774,7.25977 a 1.0001,1.0001 0 0 0 1.88476,0.084 l 1.75,-4.37109 H 462 v 5 a 1.0001,1.0001 0 0 0 1,1 c 2.49925,0 4.81287,-1.33558 6.0625,-3.5 1.24963,-2.16442 1.24963,-4.83558 0,-7 -0.52236,-0.90475 -1.23247,-1.66215 -2.0625,-2.24023 v -1.25977 c 0,-6.09395 -4.90605,-11 -11,-11 z m 0,3 c 0.1385,0 0.27538,0.003 0.41211,0.01 0.13673,0.007 0.27341,0.0176 0.4082,0.0312 0.1348,0.0136 0.2677,0.0306 0.40039,0.0508 0.1327,0.0202 0.26606,0.0438 0.39649,0.0703 0.13043,0.0266 0.25872,0.0571 0.38672,0.0898 0.128,0.0328 0.25545,0.0686 0.38086,0.10743 0.1254,0.0388 0.24845,0.0803 0.37109,0.125 0.12264,0.0447 0.24356,0.0921 0.36328,0.14257 0.11972,0.0505 0.23884,0.10412 0.35547,0.16016 0.11663,0.056 0.23233,0.11435 0.3457,0.17578 0.11338,0.0614 0.22403,0.12474 0.33399,0.19141 0.10995,0.0667 0.21785,0.13724 0.32422,0.20898 0.10636,0.0717 0.21183,0.14601 0.31445,0.22266 0.10262,0.0767 0.20208,0.15494 0.30078,0.23633 0.0987,0.0814 0.1964,0.16598 0.29102,0.25195 0.0946,0.086 0.18696,0.1733 0.27734,0.26367 0.0904,0.0904 0.17771,0.18272 0.26367,0.27734 0.086,0.0946 0.17057,0.19232 0.25195,0.29102 0.0814,0.0987 0.15968,0.19816 0.23633,0.30078 0.0766,0.10262 0.15092,0.20809 0.22266,0.31445 0.0717,0.10637 0.14231,0.21427 0.20898,0.32422 0.0667,0.10996 0.12997,0.22061 0.19141,0.33399 0.0614,0.11337 0.11975,0.22907 0.17578,0.3457 0.056,0.11663 0.10969,0.23575 0.16016,0.35547 0.0505,0.11972 0.0979,0.24064 0.14257,0.36328 0.0447,0.12264 0.0862,0.24569 0.125,0.37109 0.0388,0.12541 0.0746,0.25286 0.10743,0.38086 0.0328,0.128 0.0633,0.25629 0.0898,0.38672 0.0266,0.13043 0.0501,0.26379 0.0703,0.39649 0.0202,0.13269 0.0372,0.26559 0.0508,0.40039 0.0136,0.13479 0.0244,0.27147 0.0312,0.4082 0.007,0.13673 0.01,0.27361 0.01,0.41211 v 0.0742 c -0.32837,-0.0474 -0.66271,-0.0742 -1,-0.0742 a 1.0001,1.0001 0 0 0 -1,1 v 5 h -3.04492 a 1.0001,1.0001 0 0 0 -0.92774,0.62891 l -0.9375,2.34375 -2.17773,-7.25977 A 1.0001,1.0001 0 0 0 454,360.14997 a 1.0001,1.0001 0 0 0 -0.97266,0.62891 l -1.75,4.37109 H 450 v -5 a 1.0001,1.0001 0 0 0 -1,-1 c -0.33729,0 -0.67163,0.0268 -1,0.0742 v -0.0742 c 0,-0.1385 0.003,-0.27538 0.01,-0.41211 0.007,-0.13673 0.0176,-0.27341 0.0312,-0.4082 0.0136,-0.1348 0.0306,-0.2677 0.0508,-0.40039 0.0202,-0.1327 0.0438,-0.26606 0.0703,-0.39649 0.0266,-0.13043 0.0571,-0.25872 0.0898,-0.38672 0.0328,-0.128 0.0686,-0.25545 0.10743,-0.38086 0.0388,-0.1254 0.0803,-0.24845 0.125,-0.37109 0.0447,-0.12264 0.0921,-0.24356 0.14257,-0.36328 0.0505,-0.11972 0.10412,-0.23884 0.16016,-0.35547 0.056,-0.11663 0.11435,-0.23233 0.17578,-0.3457 0.0614,-0.11338 0.12474,-0.22403 0.19141,-0.33399 0.0667,-0.10995 0.13724,-0.21785 0.20898,-0.32422 0.0717,-0.10636 0.14601,-0.21183 0.22266,-0.31445 0.0767,-0.10262 0.15494,-0.20208 0.23633,-0.30078 0.0814,-0.0987 0.16598,-0.1964 0.25195,-0.29102 0.086,-0.0946 0.1733,-0.18696 0.26367,-0.27734 0.0904,-0.0904 0.18272,-0.17771 0.27734,-0.26367 0.0946,-0.086 0.19232,-0.17057 0.29102,-0.25195 0.0987,-0.0814 0.19816,-0.15968 0.30078,-0.23633 0.10262,-0.0766 0.20809,-0.15092 0.31445,-0.22266 0.10637,-0.0717 0.21427,-0.14231 0.32422,-0.20898 0.10996,-0.0667 0.22061,-0.12997 0.33399,-0.19141 0.11337,-0.0614 0.22907,-0.11975 0.3457,-0.17578 0.11663,-0.056 0.23575,-0.10969 0.35547,-0.16016 0.11972,-0.0505 0.24064,-0.0979 0.36328,-0.14257 0.12264,-0.0447 0.24569,-0.0862 0.37109,-0.125 0.12541,-0.0388 0.25286,-0.0746 0.38086,-0.10743 0.128,-0.0328 0.25629,-0.0633 0.38672,-0.0898 0.13043,-0.0266 0.26379,-0.0501 0.39649,-0.0703 0.13269,-0.0202 0.26559,-0.0372 0.40039,-0.0508 0.13479,-0.0136 0.27147,-0.0244 0.4082,-0.0312 0.13673,-0.007 0.27361,-0.01 0.41211,-0.01 z" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

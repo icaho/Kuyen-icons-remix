@@ -1,9 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-    height="22"
-    viewBox="0 0 22 22"
-    width="22"
-    xmlns="http://www.w3.org/2000/svg">
-    <defs id="defs2">
+   height="22"
+   viewBox="0 0 22 22"
+   width="22"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="view-preview.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="33.772727"
+     inkscape:cx="16.374159"
+     inkscape:cy="11.207268"
+     inkscape:window-width="1447"
+     inkscape:window-height="930"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6">
+    <inkscape:grid
+       type="xygrid"
+       id="grid546" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
     <style
        type="text/css"
        id="current-color-scheme">
@@ -11,11 +43,42 @@
         color:#36404d;
       }
       </style>
-    </defs>
-    <path 
-        d="m4.9775374 303.17915c-1.384989 0-2.5 1.115-2.5 2.5 0 1.38497 1.1076588 2.50001 2.4926478 2.50001s2.5073522-1.11504 2.5073522-2.50001c0-1.385-1.115011-2.5-2.5-2.5zm6.4404276 6.00002c-.304324.0189-.583683.17122-.759766.41995l-3.2343751 4.52148-1.154297-1.54102c-.18311-.24454-.467997-.39209-.773437-.40041-.32468-.008-.633479.14022-.828125.40041l-3.000001 4.00002c-.493912.65949-.02317 1.59984.800782 1.59957h6c .0048.00004.0089-.002.013678-.002h7.9843641c.814525.004 1.2924-.91634.820312-1.5801l-5.005854-6.99799c-.197265-.27855-.522458-.43619-.863278-.41994z" 
-        fill="currentColor"
-        transform="matrix(.99954516 0 0 1 1.5341275 -299.1791603)"
-        style="fill:currentColor;fill-opacity:1;stroke:none"
-        class="ColorScheme-Text"/>
+  </defs>
+  <path
+     id="rect934"
+     d="m 2,1 h 18 c 0.554,0 1,0.446 1,1 v 18 c 0,0.554 -0.446,1 -1,1 H 2 C 1.446,21 1,20.554 1,20 V 2 C 1,1.446 1.446,1 2,1 Z"
+     style="vector-effect:none;fill:#a3b7cc;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sssssssss" />
+  <path
+     id="rect934-5"
+     d="M 2,2 H 20 V 20 H 2 Z"
+     style="vector-effect:none;fill:#f1f1f1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     id="rect934-5-8-9"
+     d="M 3,3 H 19 V 17 H 3 Z"
+     style="vector-effect:none;fill:#71b4ff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     id="rect1304"
+     style="fill:#dcecfe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="M 15.5,4 C 16.885,4 18,5.115 18,6.5 18,7.885 16.885,9 15.5,9 14.115,9 13,7.885 13,6.5 13,5.115 14.115,4 15.5,4 Z" />
+  <path
+     style="fill:#dcecfe;fill-opacity:1;stroke:none;stroke-width:0.686324px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 18,16.000005 v -3 l -3,-3 -3,3 4,3 z"
+     id="path895-4-6"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccc" />
+  <path
+     style="fill:#8fcaf9;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="M 4.0000003,16.000005 H 16 L 8.0000001,8.0000306 4.0000003,12.000018 Z"
+     id="path1642-3"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     style="fill:#dcecfe;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="m 4,16.000005 h 8 L 8.0000001,8.000031 4,12.000018 Z"
+     id="path1642" />
 </svg>

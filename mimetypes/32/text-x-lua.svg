@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="text-x-lua.svg"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><title
+     id="title7895">Antu icon Theme</title><defs
+     id="defs2"><style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-0">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-5"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-53">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-2-5">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-0-6">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><linearGradient
+       id="a"
+       y1="524.8"
+       x1="404.57"
+       y2="531.8"
+       x2="411.57"
+       gradientUnits="userSpaceOnUse"><stop
+         stop-color="#383e51"
+         id="stop1786" /><stop
+         offset="1"
+         stop-color="#655c6f"
+         stop-opacity="0"
+         id="stop1788" /></linearGradient><linearGradient
+       id="b"
+       y1="3"
+       y2="61"
+       x2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5,0,0,-0.48276,384.57,547.25)"><stop
+         stop-color="#ffffff"
+         stop-opacity="0"
+         id="stop1791" /><stop
+         offset="1"
+         stop-color="#ffffff"
+         stop-opacity=".2"
+         id="stop1793" /></linearGradient><path
+       id="c"
+       d="m389.57 545.8v-28h15l7 7v21h-7z" /></defs><sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16"
+     inkscape:cx="0.46875"
+     inkscape:cy="6.46875"
+     inkscape:document-units="px"
+     inkscape:current-layer="g7713"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="2160"
+     inkscape:window-height="1335"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"><inkscape:grid
+       type="xygrid"
+       id="grid7897"
+       empspacing="4" /></sodipodi:namedview><metadata
+     id="metadata5"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Antu icon Theme</dc:title></cc:Work></rdf:RDF></metadata><g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-282.64999)"><g
+       id="g7713"
+       transform="translate(25.75,9.250005)"><path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#395093;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -20.75,274.40001 H 1.2499994 c 1.108,0 2,0.89202 2,2.00001 v 26.00001 c 0,1.10797 -0.892,1.99998 -2,1.99998 H -20.75 c -1.108,0 -2,-0.89201 -2,-1.99998 v -26 c 0,-1.108 0.892,-2.00001 2,-2.00002 z"
+         id="rect827-8" /><path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#6175b1;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -20.75,275.40003 H 1.2499994 c 0.554,0 1,0.44599 1,1 v 26 c 0,0.55401 -0.446,1 -1,1 H -20.75 c -0.554,0 -1,-0.44599 -1,-1 v -26 c 0,-0.554 0.446,-1 1,-1 z"
+         id="rect829-6" /><g
+         id="g3510"
+         transform="translate(0,0.9999911)"><path
+           id="path2779"
+           style="opacity:1;fill:#e2e6f1;fill-opacity:1;stroke:none;stroke-width:2.06559;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.8;paint-order:stroke fill markers;stop-color:#000000"
+           d="m -9.75,281.39999 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -2.0292969,-5.32227 2,2 0 0 1 0.019531,0.12695 2,2 0 0 1 0.00977,0.19532 2,2 0 0 1 -0.068359,0.51757 2,2 0 0 1 -0.1992187,0.48243 2,2 0 0 1 -0.3183594,0.41406 A 2,2 0 0 1 -4.75,286.13241 2,2 0 0 1 -5.2324219,286.33163 2,2 0 0 1 -5.75,286.39999 2,2 0 0 1 -6.2675781,286.33163 2,2 0 0 1 -6.75,286.13241 a 2,2 0 0 1 -0.4140625,-0.31836 2,2 0 0 1 -0.3183594,-0.41406 2,2 0 0 1 -0.1992187,-0.48243 2,2 0 0 1 -0.068359,-0.51757 2,2 0 0 1 0.068359,-0.51758 2,2 0 0 1 0.1992187,-0.48242 2,2 0 0 1 0.3183594,-0.41407 2,2 0 0 1 0.4140625,-0.31836 2,2 0 0 1 0.4824219,-0.19922 2,2 0 0 1 0.4140625,-0.0547 A 8,8 0 0 0 -9.75,281.39999 Z" /><circle
+           style="fill:#e2e6f1;fill-opacity:1;stroke:none;stroke-width:0.516395;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.8;paint-order:stroke fill markers;stop-color:#000000"
+           id="path916-3-6"
+           cx="-2.75"
+           cy="281.39999"
+           r="2" /></g></g></g></svg>

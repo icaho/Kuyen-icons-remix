@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="application-wps-office.dot.svg"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><title
+     id="title7895">Antu icon Theme</title><defs
+     id="defs2"><style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-5"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style></defs><sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16.000001"
+     inkscape:cx="22.124999"
+     inkscape:cy="20.249999"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="2160"
+     inkscape:window-height="1330"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"><inkscape:grid
+       type="xygrid"
+       id="grid7897"
+       empspacing="4" /></sodipodi:namedview><metadata
+     id="metadata5"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Antu icon Theme</dc:title></cc:Work></rdf:RDF></metadata><g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-266.64999)"><g
+       transform="translate(35,14)"
+       id="g1593"><path
+         style="opacity:1;vector-effect:none;fill:#4a73c6;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:18;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M -27,254.64999 H 5.0000002 c 1.662,0 3,1.338 3,3 v 38 c 0,1.662 -1.338,3 -3,3 H -27 c -1.662,0 -3,-1.338 -3,-3 v -38 c 0,-1.662 1.338,-3 3,-3 z"
+         id="rect6397-1-4"
+         inkscape:connector-curvature="0" /><path
+         style="opacity:1;vector-effect:none;fill:#5ca5ff;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:18;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M -27,255.64999 H 5.0000002 c 1.108,0 2,0.892 2,2 v 38 c 0,1.108 -0.892,2 -2,2 H -27 c -1.108,0 -2,-0.892 -2,-2 v -38 c 0,-1.108 0.892,-2 2,-2 z"
+         id="rect6399-4-9"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssssssss" /></g><path
+       id="rect850-5-9-7-9-7-0-4-4-1-4"
+       style="fill:#5491e9;fill-opacity:1;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.8;paint-order:stroke fill markers;stop-color:#000000"
+       d="m 9,269.64999 v 3 h 3 v -3 z m 3,3 v 3 h 3 v -3 z m 3,0 h 3 v -3 h -3 z m 3,0 v 3 h 3 v -3 z m 3,0 h 3 v -3 h -3 z m 3,0 v 3 h 3 v -3 z m 3,0 h 3 v -3 h -3 z m 3,0 v 3 h 3 v -3 z m 3,0 h 3 v -3 h -3 z m 3,0 v 3 h 3 v -3 z m 3,0 h 1.5 1.5 v -1.5 c 0,-0.83099 -0.669,-1.5 -1.5,-1.5 H 39 v 1.5 z m 0,3 v 3 h 3 v -3 z m 0,3 h -3 v 3 h 3 z m 0,3 v 3 h 3 v -3 z m 0,3 h -3 v 3 h 3 z m 0,3 v 3 h 3 v -3 z m 0,3 h -3 v 3 h 3 z m 0,3 v 2.99999 h 3 v -3 z m 0,2.99999 h -3 v 3 h 3 z m 0,3 v 3 h 3 v -3 z m 0,3 h -3 v 3 h 3 z m 0,3 v 3 h 3 v -3 z m 0,3 h -3 v 3 h 3 z m -3,0 v -3 h -3 v 3 z m -3,0 h -3 v 3 h 3 z m -3,0 v -3 h -3 v 3 z m -3,0 h -3 v 3 h 3 z m -3,0 v -3 h -3 v 3 z m -3,0 h -3 v 3 h 3 z m -3,0 v -3 h -3 v 3 z m -3,0 h -3 v 3 h 3 z m -3,0 v -3 H 9 v 3 z m -3,0 H 7.5 6 v 1.5 c 0,0.83099 0.669,1.5 1.5,1.5 H 9 v -1.5 z m 0,-3 v -3 H 6 v 3 z m 0,-3 h 3 v -3 H 9 Z m 0,-3 v -3 H 6 v 3 z m 0,-3 h 3 v -3 H 9 Z m 0,-3 v -3 H 6 v 3 z m 0,-3 h 3 v -3 H 9 Z m 0,-3 v -3 H 6 v 3 z m 0,-3 h 3 v -3 H 9 Z m 0,-3 v -3 H 6 v 3 z m 0,-3 h 3 v -3 H 9 Z m 0,-3 v -3 H 6 v 3 z m 3,3 v 3 h 3 v -3 z m 3,0 h 3 v -3 h -3 z m 3,0 v 3 h 3 v -3 z m 3,0 h 3 v -3 h -3 z m 3,0 v 3 h 3 v -3 z m 3,0 h 3 v -3 h -3 z m 3,0 v 3 h 3 v -3 z m 3,0 h 3 v -3 h -3 z m 0,3 v 3 h 3 v -3 z m 0,3 h -3 v 3 h 3 z m 0,3 v 3 h 3 v -3 z m 0,3 h -3 v 3 h 3 z m 0,3 v 3 h 3 v -3 z m 0,3 h -3 v 3 h 3 z m 0,3 v 3 h 3 v -3 z m 0,3 h -3 v 3 h 3 z m -3,0 v -3 h -3 v 3 z m -3,0 h -3 v 3 h 3 z m -3,0 v -3 h -3 v 3 z m -3,0 h -3 v 3 h 3 z m -3,0 v -3 h -3 v 3 z m -3,0 h -3 v 3 h 3 z m 0,-3 v -3 h -3 v 3 z m 0,-3 h 3 v -3 h -3 z m 0,-3 v -3 h -3 v 3 z m 0,-3 h 3 v -3 h -3 z m 0,-3 v -3 h -3 v 3 z m 0,-3 h 3 v -3 h -3 z m 3,0 v 3 h 3 v -3 z m 3,0 h 3 v -3 h -3 z m 3,0 v 3 h 3 v -3 z m 3,0 h 3 v -3 h -3 z m 0,3 v 3 h 3 v -3 z m 0,3 h -3 v 3 h 3 z m 0,3 v 3 h 3 v -3 z m 0,3 h -3 v 3 h 3 z m -3,0 v -3 h -3 v 3 z m -3,0 h -3 v 3 h 3 z m 0,-3 v -3 h -3 v 3 z m 0,-3 h 3 v -3 h -3 z" /><g
+       id="g1469-9"
+       transform="translate(17,-26.000004)"><rect
+         style="fill:#eef5fe;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+         id="rect2576"
+         width="4"
+         height="18.999969"
+         x="-3.9999995"
+         y="307.64999"
+         ry="2.0000019" /><rect
+         style="fill:#eef5fe;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+         id="rect2576-2"
+         width="3.9999995"
+         height="19.000031"
+         x="14.000001"
+         y="307.64999"
+         ry="2.0000019" /><g
+         id="path11463"><path
+           style="color:#000000;fill:#eef5fe;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+           d="m -1.9999995,324.64999 9,-7"
+           id="path12473" /><path
+           style="color:#000000;fill:#eef5fe;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+           d="m 5.7714844,316.07031 -9,7 a 2,2 0 0 0 -0.3496094,2.80664 2,2 0 0 0 2.80664063,0.35157 l 8.99999997,-7 a 2,2 0 0 0 0.3496094,-2.80665 2,2 0 0 0 -2.8066406,-0.35156 z"
+           id="path12475" /></g><g
+         id="path11463-9"><path
+           style="color:#000000;fill:#eef5fe;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+           d="m 16,324.64999 -8.9999995,-7"
+           id="path12467" /><path
+           style="color:#000000;fill:#eef5fe;stroke-linecap:round;stroke-linejoin:round"
+           d="m 6.7519531,315.66602 a 2,2 0 0 0 -1.3300781,0.75585 2,2 0 0 0 0.3496094,2.80665 l 8.9999996,7 a 2,2 0 0 0 2.806641,-0.35157 2,2 0 0 0 -0.349609,-2.80664 l -9.0000004,-7 a 2,2 0 0 0 -1.4765625,-0.40429 z"
+           id="path12469" /></g></g></g></svg>

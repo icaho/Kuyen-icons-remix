@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32"
    height="32"
    viewBox="0 0 32 32"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="preferences-desktop-theme.svg">
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="preferences-desktop-theme-applications.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title7895">Antu icon Theme</title>
   <defs
@@ -28,20 +28,23 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.4"
-     inkscape:cx="18.22377"
-     inkscape:cy="11.648921"
+     inkscape:cx="18.28125"
+     inkscape:cy="11.651786"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:window-width="1874"
-     inkscape:window-height="1141"
-     inkscape:window-x="46"
-     inkscape:window-y="30"
+     inkscape:window-width="2560"
+     inkscape:window-height="1353"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      objecttolerance="10"
      gridtolerance="10"
-     guidetolerance="10">
+     guidetolerance="10"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid7897"
@@ -65,41 +68,37 @@
      id="layer1"
      transform="translate(0,-282.64999)">
     <g
-       id="g2924"
-       transform="translate(26,-5)">
+       id="g49331-2"
+       transform="translate(37)">
       <path
          inkscape:connector-curvature="0"
-         style="fill:#a3b7cc;fill-opacity:1;stroke-width:1.00000012"
-         d="m -25,289.64999 c -0.55401,0 -1,0.446 -1,1 v 26 c 0,0.554 0.44599,1 1,1 H 5 c 0.55401,0 1,-0.446 1,-1 v -26 c 0,-0.554 -0.44599,-1 -1,-1 h -14 -3 z"
-         id="path12329" />
+         style="fill:#a3b7cc;fill-opacity:1;stroke:none;stroke-width:0.808;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         d="m -35,284.64999 h 28 c 1.108,0 2,0.892 2,2 V 310.65 c 0,1.108 -0.892,1.99999 -2,1.99999 h -28 c -1.108,0 -2,-0.89199 -2,-1.99999 v -24.00001 c 0,-1.108 0.892,-2 2,-2 z"
+         id="rect941-0-1-60-4" />
       <path
-         style="fill:#f1f1f1;fill-opacity:1;stroke-width:1.00000012"
-         d="m -25,290.64999 v 5 H 5 v -5 h -15 -2 z m 0,6 v 20 H 5 v -20 z"
-         id="path13-5-2-9-4-2-6-6"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccccccccc" />
+         style="fill:#f1f1f1;fill-opacity:1;stroke:none;stroke-width:0.808;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         d="m -23,285.64999 v 26 h 16 c 0.554,0 1,-0.446 1,-1 v -24 c 0,-0.554 -0.446,-1 -1,-1 z"
+         id="path47107-5" />
       <path
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#36404d;fill-opacity:1;stroke:none;stroke-width:0.80800003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         d="m -25,289.64999 c -0.554,0 -1,0.446 -1,1 v 5 1 h 1 30 1 v -1 -5 c 0,-0.554 -0.446,-1 -1,-1 z"
-         id="rect1191" />
+         id="rect46524-1"
+         style="fill:#4f92db;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill;stop-color:#000000"
+         d="m -35,284.64999 c -1.107997,0 -2,0.892 -2,2 v 24 c 0,1.108 0.892003,2 2,2 h 9 1 2 v -2 -23 -1 c 0,-1.108 -0.892003,-2 -2,-2 z" />
       <path
-         inkscape:connector-curvature="0"
-         style="fill:#4b6477;fill-opacity:1;stroke:none;stroke-width:0.40000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m -25,290.64999 v 5 H 5 v -5 z"
-         id="rect4537-2"
-         sodipodi:nodetypes="ccccc" />
+         style="fill:#5ac0ff;fill-opacity:1;stroke:none;stroke-width:0.808;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         d="m -35,285.64999 c -0.554,0 -1,0.446 -1,1 v 24 c 0,0.554 0.446,1 1,1 h 11 v -26 z"
+         id="rect943-39-5-8-7" />
       <path
-         style="opacity:1;fill:#4f92db;fill-opacity:1;stroke:none;stroke-width:0.80800003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         d="m -26,296.64999 v 19 1 c 0,0.554 0.446,1 1,1 h 5 3 1 v -1 -1 -19 h -1 v 18 h -8 v -18 z"
-         id="rect860"
+         sodipodi:nodetypes="ssccccccccsss"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccssccccccccccc" />
+         id="rect866-6-9-9-5"
+         d="m -35,284.64999 c -1.108,0 -2,0.892 -2,2 v 2 1 2 h 2 28 2 v -2 -1 -2 c 0,-1.108 -0.892,-2 -2,-2 z"
+         style="fill:#36404d;fill-opacity:1;stroke:none;stroke-width:0.808;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
       <path
+         sodipodi:nodetypes="ssccccccccsss"
          inkscape:connector-curvature="0"
-         style="opacity:1;fill:#5ac0ff;fill-opacity:1;stroke:none;stroke-width:0.80800003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         d="m -25,296.64999 h 8 v 20 h -8 z"
-         id="rect858" />
+         id="rect868-9-9-2-7"
+         d="m -35,285.64999 c -0.554,0 -1,0.446 -1,1 v 2 1 1 h 1 28 1 v -1 -1 -2 c 0,-0.554 -0.446,-1 -1,-1 z"
+         style="fill:#4b6477;fill-opacity:1;stroke:none;stroke-width:0.808;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
     </g>
   </g>
 </svg>

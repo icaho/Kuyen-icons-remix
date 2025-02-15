@@ -1,20 +1,8 @@
-<svg 
-    height="22"
-    viewBox="0 0 22 22"
-    width="22" 
-    xmlns="http://www.w3.org/2000/svg">
-    <defs id="defs2">
-    <style
-       type="text/css"
-       id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#36404d;
+<svg height="22" viewBox="0 0 22 22" width="22" xmlns="http://www.w3.org/2000/svg"><defs id="kuyenfoldercolor">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Highlight {
+        color:#03b2fe;
       }
       </style>
-    </defs>
-    <path
-        d="m4 2c-1.108 0-2 .892-2 2v4c0 1.108.892 2 2 2h4c1.108 0 2-.892 2-2v-4c0-1.108-.892-2-2-2zm8 0v3h4v-3zm-7.3339844 2h2.6679688c.3693333 0 .6660156.2966823.6660156.6660156v2.6679688c0 .3693333-.2966823.6660156-.6660156.6660156h-2.6679688c-.3693333 0-.6660156-.2966823-.6660156-.6660156v-2.6679688c0-.3693333.2966823-.6660156.6660156-.6660156zm7.3339844 3v3h8v-3zm-8 5c-1.108 0-2 .892-2 2v4c0 1.108.892 2 2 2h4c1.108 0 2-.892 2-2v-4c0-1.108-.892-2-2-2zm8 0v3h4v-3zm0 5v3h8v-3z"
-        fill="currentColor"
-        style="fill:currentColor;fill-opacity:1;stroke:none"
-        class="ColorScheme-Text"/>
-</svg>
+  </defs><g stroke-linecap="round" stroke-linejoin="round"><g stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="m2 3h18c.554 0 1 .446 1 1v16c0 .554-.446 1-1 1h-18c-.554 0-1-.446-1-1v-16c0-.554.446-1 1-1z" fill="#a3b7cc"/><path d="m2 4h18v16h-18z" fill="#f1f1f1"/><path d="m2 1h18.000002c.553999 0 .999999.4459995.999999.9999989v3.0000022c0 .5539994-.446.9999989-.999999.9999989h-18.000002c-.5539994 0-.9999989-.4459995-.9999989-.9999989v-3.0000022c0-.5539994.4459995-.9999989.9999989-.9999989z" fill="#36404d"/><path d="m1.0000011 5h19.9999999v2h-19.9999999z" fill="#36404d"/><path d="m2.0000011 2h17.9999999v4h-17.9999999z" fill="#4b6477"/></g><path d="m5.0019531 8c-.5539994 0-1 .4460006-1 1v3c0 .553999.4460006 1 1 1h3c.5539995 0 1-.446001 1-1v-3c0-.5539994-.4460005-1-1-1zm-.0019531 6c-.5539994 0-1 .446001-1 1v3c0 .553999.4460006 1 1 1h3c.5539994 0 1-.446001 1-1v-3c0-.553999-.4460006-1-1-1z" style="fill:currentColor"
+class="ColorScheme-Highlight" stroke-width="1.05343"/><path d="m10 8v1h8v-1zm0 2v1h8v-1zm0 2v1h8v-1zm0 2v1h8v-1zm0 2v1h8v-1zm0 2v1h8v-1z" fill="#a3b7cc" stroke-width="1.99384"/><path d="m5 8c-.553998 0-1 .446002-1 1v3c0 .553998.446002 1 1 1h3c.554 0 1-.446002 1-1v-3c0-.553998-.446-1-1-1zm0 1h2.998047v3h-2.998047zm-.00195 5c-.553998 0-1 .446002-1 1v3c0 .553998.446002 1 1 1h3c.553998 0 1-.446002 1-1v-3c0-.553998-.446002-1-1-1zm0 1h2.998047v3h-2.99805z" fill-opacity=".2" stroke-width="1.05343"/></g></svg>
