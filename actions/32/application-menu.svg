@@ -7,7 +7,7 @@
    viewBox="0 0 8.4666665 8.4666669"
    version="1.1"
    id="svg8"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="application-menu.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.4"
-     inkscape:cx="10.15625"
-     inkscape:cy="14.441964"
+     inkscape:zoom="31.678384"
+     inkscape:cx="18.76674"
+     inkscape:cy="16.541248"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -40,8 +40,8 @@
      inkscape:snap-bbox-midpoints="true"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
-     inkscape:window-width="1890"
-     inkscape:window-height="1048"
+     inkscape:window-width="2560"
+     inkscape:window-height="1367"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -75,7 +75,7 @@
      transform="translate(0,-288.53333)">
     <g
        id="g3"
-       transform="matrix(0.40971036,0,0,0.46645368,-0.22035684,287.7023)">
+       transform="matrix(0.40971036,0,0,0.3924684,-0.22035684,288.48532)">
       <g
          id="g2"
          transform="rotate(-90,10.57537,7.6352626)">

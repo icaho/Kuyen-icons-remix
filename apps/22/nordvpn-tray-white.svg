@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 367.40147 367.40147"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="nordvpn-tray-white.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="57.05"
+     inkscape:cx="10"
+     inkscape:cy="8.3260298"
+     inkscape:window-width="2560"
+     inkscape:window-height="1367"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="16.700067"
+       spacingy="16.700067"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="m 62.314174,316.68532 c -18.74005,-28.63141 -28.740749,-63.16931 -28.650652,-98.50809 0,-92.7017 67.482198,-168.184526 150.460988,-168.184526 83.24907,0 150.46097,75.182496 150.46097,168.184526 0.0441,35.43889 -10.00072,69.87668 -28.74075,98.50809 l -72.43752,-131.14389 -7.00049,13.11439 7.09059,36.54009 -49.73321,-94.70391 -30.81295,57.86349 7.16266,36.94054 -26.03787,-49.65449 -72.347394,131.14389 z"
+     fill="#ffffff"
+     id="path1"
+     style="stroke-width:0.949715" />
+</svg>

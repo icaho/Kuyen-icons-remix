@@ -6,7 +6,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="application-menu.svg"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      showgrid="true"
      inkscape:zoom="33.772727"
      inkscape:cx="10.97039"
-     inkscape:cy="10.97039"
-     inkscape:window-width="1890"
-     inkscape:window-height="1048"
+     inkscape:cy="10.955586"
+     inkscape:window-width="2560"
+     inkscape:window-height="1367"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -62,7 +62,7 @@
      style="stroke-width:0.955318" />
   <g
      id="g3"
-     transform="matrix(1.1234557,0,0,1.2738545,-1.2797105,-2.9455328)">
+     transform="matrix(0.99815733,0,0,1.0021064,0.06461955,0.02130094)">
     <g
        id="g2"
        transform="rotate(-90,10.57537,7.6352626)">

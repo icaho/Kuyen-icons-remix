@@ -5,7 +5,7 @@
    id="svg1"
    sodipodi:docname="kdeconnect.svg"
    xml:space="preserve"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -40,9 +40,9 @@
      showgrid="true"
      inkscape:zoom="25.455844"
      inkscape:cx="10.940513"
-     inkscape:cy="15.811693"
-     inkscape:window-width="1890"
-     inkscape:window-height="1048"
+     inkscape:cy="15.792052"
+     inkscape:window-width="2560"
+     inkscape:window-height="1367"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -69,7 +69,7 @@
 .ColorScheme-Text {
     color:#232629;
 }</style><g
-     transform="matrix(1.3928371,0,0,1,87.073976,-290.64999)"
+     transform="matrix(1.3928371,0,0,0.92667041,87.073976,-268.12419)"
      id="g1196"><rect
        style="fill:#4b6377;fill-opacity:1;stroke:none;stroke-width:0.8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect837-3-6"

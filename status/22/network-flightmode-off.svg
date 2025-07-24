@@ -5,7 +5,7 @@
    version="1.1"
    id="svg1"
    sodipodi:docname="network-flightmode-off.svg"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -22,9 +22,9 @@
      showgrid="true"
      inkscape:zoom="26.181818"
      inkscape:cx="1.6996528"
-     inkscape:cy="9.6631945"
-     inkscape:window-width="2560"
-     inkscape:window-height="1364"
+     inkscape:cy="9.6822917"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -61,7 +61,7 @@
      transform="translate(-35,7)">
     <g
        id="g1"
-       transform="translate(-21,-15.955184)">
+       transform="matrix(0.90451388,0,0,0.91109613,-14.602431,-14.161994)">
       <g
          id="rect8-8"
          transform="translate(21,15.999496)">
@@ -128,7 +128,7 @@
     </g>
     <g
        id="g2"
-       transform="translate(5.9977951,2.044312)">
+       transform="matrix(0.64272167,0,0,0.65306714,22.19626,5.4849948)">
       <path
          style="color:#000000;fill:#da354e;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.8;paint-order:fill markers stroke"
          d="m 44.002207,1 c -0.34696,-2.196e-4 -0.66925,0.1794 -0.85156,0.47461 l -6,10 c -0.41138,0.6665 0.0683,1.5258 0.85156,1.52539 h 12 c 0.78323,4.1e-4 1.26294,-0.85889 0.85156,-1.52539 l -6,-10 C 44.671457,1.1794 44.349167,0.9997804 44.002207,1 Z"

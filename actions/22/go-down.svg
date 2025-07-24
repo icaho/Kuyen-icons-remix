@@ -1,8 +1,66 @@
-<svg height="22" viewBox="0 0 22 22" width="22" xmlns="http://www.w3.org/2000/svg"><defs id="kuyenfoldercolor">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Highlight {
-        color:#03b2fe;
-      }
-      </style>
-  </defs><g stroke-linecap="round" stroke-linejoin="round"><path d="m19.890625 7.546875c.17037.334866.138685.736967-.08203 1.041016l-8 11c-.399409.54875-1.217779.54875-1.617188 0l-7.9999998-11c-.480101-.660894-.0083-1.587448.808594-1.587891h4v-5c.000055-.552262.447738-.999945 1-1h2.9999998 3c.552262.000055.999945.447738 1 1v5h4c.376086.000332.720191.211625.890624.546875z" style="fill:currentColor"
-class="ColorScheme-Highlight"/><path d="m19.998047 7.943359c.01291.226281-.05151.454501-.189453.644532l-8 11c-.399409.548749-1.217779.548749-1.617188 0l-7.9999998-11c-.4801-.660894-.0083-1.587448.808594-1.587891h4v-5c.000055-.552261.447739-.999945 1-1h2.9999998 3c.552261.000055.999945.447739 1 1v5h4c.376086.000332.720191.211625.890625.546875.06389.125575.09967.260716.107422.396484zm-.998047.05664h-5v-6h-3-2.9999998v6h-5l7.9999998 11z" fill-opacity=".2"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="go-down-symbolic.svg"
+   width="32"
+   height="32"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="28.666992"
+     inkscape:cx="3.8894907"
+     inkscape:cy="16.743996"
+     inkscape:window-width="2560"
+     inkscape:window-height="1367"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+  </defs>
+  <g
+     transform="matrix(-2.0813467,0,0,-2.1744052,32.587763,33.418407)"
+     id="g1">
+    <path
+       style="fill:currentColor"
+       class="ColorScheme-Text"
+       d="M 7.381,14 V 4.518 L 3.598,8.229 2.685,7.315 8,2 13.266,7.266 12.352,8.179 8.581,4.518 V 14 Z"
+       id="path1" />
+  </g>
+</svg>

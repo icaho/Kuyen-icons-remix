@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 367.40147 367.40147"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="nordvpn-tray-blue.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="43.010352"
+     inkscape:cx="13.008496"
+     inkscape:cy="10.974102"
+     inkscape:window-width="2560"
+     inkscape:window-height="1367"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="16.700067"
+       spacingy="16.700067"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <path
+     style="fill:#5ca5ff;fill-opacity:1;stroke-width:0.413012"
+     d="m 269.08545,252.37212 c -19.78494,-35.87287 -36.14917,-65.26655 -36.365,-65.31931 -0.21579,-0.0534 -1.94551,2.83995 -3.84374,6.42821 l -3.45134,6.52411 3.28495,16.943 c 1.80678,9.31864 3.21966,17.00071 3.13985,17.07126 -0.0793,0.0701 -11.02155,-20.61614 -24.31498,-45.97038 -13.29343,-25.35425 -24.3441,-46.14795 -24.55703,-46.20823 -0.45273,-0.12825 -30.63578,56.54655 -30.83441,57.898 -0.0737,0.50183 1.26862,8.12613 2.98322,16.94284 1.71457,8.81671 3.05989,16.29093 2.98969,16.60938 -0.0698,0.31846 -5.66307,-10.01705 -12.4286,-22.96773 -6.76555,-12.95065 -12.39983,-23.5467 -12.52064,-23.54675 -0.12095,-5e-5 -16.33175,29.27824 -36.024289,65.06288 -19.692553,35.78464 -35.940144,65.13886 -36.105723,65.23164 -0.410219,0.22979 -4.696926,-6.90165 -8.035526,-13.36818 C 42.172171,282.72669 35.819144,260.6828 33.455413,235.8802 32.785006,228.84545 32.901969,209.37008 33.660616,201.71154 37.529853,162.65179 52.74039,127.46075 77.78049,99.635918 83.360793,93.435027 96.501408,81.73674 103.07399,77.118653 134.41146,55.100041 170.47103,46.852451 207.41265,53.254188 c 30.5451,5.293264 60.25708,22.370696 82.65027,47.504522 17.67365,19.83668 31.48552,46.30896 38.11177,73.04621 10.97738,44.29418 5.78285,90.269 -14.67666,129.89794 -2.91192,5.64023 -7.46334,13.35919 -8.07371,13.6926 -0.20142,0.11022 -16.55391,-29.15049 -36.33884,-65.02334 z"
+     id="path2" />
+</svg>

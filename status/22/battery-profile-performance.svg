@@ -7,7 +7,7 @@
    viewBox="0 0 5.8208333 5.8208334"
    version="1.1"
    id="svg1"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="battery-profile-performance.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,15 +23,31 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="2.0988496"
-     inkscape:cx="-48.359825"
-     inkscape:cy="109.10739"
-     inkscape:window-width="2560"
-     inkscape:window-height="1364"
+     inkscape:zoom="23.745773"
+     inkscape:cx="7.8961424"
+     inkscape:cy="9.3700889"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="0.26458333"
+       spacingy="0.26458334"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
   <defs
      id="defs1" />
   <g
@@ -40,7 +56,7 @@
      id="layer1">
     <g
        id="g1-9"
-       transform="translate(-27.781251,-61.118751)">
+       transform="matrix(0.89471811,0,0,0.89892938,-24.538832,-54.636141)">
       <path
          id="rect27645"
          style="fill:#da354e;fill-opacity:1;stroke-width:0.547375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.8;paint-order:stroke fill markers;stop-color:#000000"

@@ -7,7 +7,7 @@
    viewBox="0 0 22 22"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="battery-030.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,10 +24,10 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="23.221672"
-     inkscape:cx="15.997986"
-     inkscape:cy="17.462136"
-     inkscape:window-width="1890"
-     inkscape:window-height="1048"
+     inkscape:cx="15.997987"
+     inkscape:cy="17.483668"
+     inkscape:window-width="2560"
+     inkscape:window-height="1344"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -55,27 +55,35 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g1"
-       transform="matrix(0,-0.90604388,1.1157324,0,-54.806681,117.00714)">
+       id="g2"
+       transform="rotate(89.973088,11.021532,11.000006)">
+      <g
+         id="g1"
+         transform="matrix(0,-0.90604388,1.1157324,0,-54.806681,117.00714)">
+        <path
+           id="rect7-9-7-2"
+           style="fill:#363c4d;fill-opacity:1;stroke-width:1.99878;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           d="m 108,51.000002 c -1.108,-0.0014 -2,0.890914 -2,1.997561 v 11.985365 c 0,1.106648 0.892,1.99612 2,1.997563 l 15,0.01951 c 1.108,0.0014 2,-0.890915 2,-1.99756 v -1.010489 h 1.03125 c 1.0907,0 1.96875,-0.87698 1.96875,-1.966348 v -0.05852 -6.002437 c 0,-6.52e-4 0,-0.0013 0,-0.002 0,-1.089371 -0.87805,-1.966349 -1.96875,-1.966349 h -0.81445 c -0.0747,-0.0067 -0.14755,-0.0098 -0.2168,-0.0098 v -0.96952 c 0,-1.106647 -0.892,-1.99612 -2,-1.997561 z" />
+        <path
+           id="rect4-2-2-50"
+           style="fill:#69718b;fill-opacity:1;stroke-width:1.99878;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           d="m 108,52.008538 c -0.554,0 -1,0.445457 -1,0.99878 v 11.985365 c 0,0.553326 0.446,0.998782 1,0.998782 h 15 c 0.554,0 1,-0.445456 1,-0.998782 v -1.997557 h 2 c 0.554,0 1,-0.445457 1,-0.99878 V 56.00366 c 0,-0.553323 -0.446,-0.998781 -1,-0.998781 h -2 v -1.997561 c 0,-0.553323 -0.446,-0.99878 -1,-0.99878 z"
+           sodipodi:nodetypes="sssssscsssscsss" />
+        <path
+           id="rect1-2-2-2"
+           style="fill:#363c4d;fill-opacity:1;stroke-width:1.99878;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           d="m 108,53.007318 v 11.985365 h 15 v -2.996337 h 3 V 56.00366 h -3 v -2.996342 z"
+           sodipodi:nodetypes="ccccccccc" />
+        <path
+           id="rect1-6-8-61-48"
+           style="fill:#ffb8a3;fill-opacity:1;stroke-width:1.99878;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           d="m 109,54 v 10 h 2 1 2 v -3 -4 -3 h -2 -1 z"
+           sodipodi:nodetypes="ccccccccccc" />
+      </g>
       <path
-         id="rect7-9-7-2"
-         style="fill:#363c4d;fill-opacity:1;stroke-width:1.99878;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-         d="m 108,51.000002 c -1.108,-0.0014 -2,0.890914 -2,1.997561 v 11.985365 c 0,1.106648 0.892,1.99612 2,1.997563 l 15,0.01951 c 1.108,0.0014 2,-0.890915 2,-1.99756 v -1.010489 h 1.03125 c 1.0907,0 1.96875,-0.87698 1.96875,-1.966348 v -0.05852 -6.002437 c 0,-6.52e-4 0,-0.0013 0,-0.002 0,-1.089371 -0.87805,-1.966349 -1.96875,-1.966349 h -0.81445 c -0.0747,-0.0067 -0.14755,-0.0098 -0.2168,-0.0098 v -0.96952 c 0,-1.106647 -0.892,-1.99612 -2,-1.997561 z" />
-      <path
-         id="rect4-2-2-50"
-         style="fill:#69718b;fill-opacity:1;stroke-width:1.99878;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-         d="m 108,52.008538 c -0.554,0 -1,0.445457 -1,0.99878 v 11.985365 c 0,0.553326 0.446,0.998782 1,0.998782 h 15 c 0.554,0 1,-0.445456 1,-0.998782 v -1.997557 h 2 c 0.554,0 1,-0.445457 1,-0.99878 V 56.00366 c 0,-0.553323 -0.446,-0.998781 -1,-0.998781 h -2 v -1.997561 c 0,-0.553323 -0.446,-0.99878 -1,-0.99878 z"
-         sodipodi:nodetypes="sssssscsssscsss" />
-      <path
-         id="rect1-2-2-2"
-         style="fill:#363c4d;fill-opacity:1;stroke-width:1.99878;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-         d="m 108,53.007318 v 11.985365 h 15 v -2.996337 h 3 V 56.00366 h -3 v -2.996342 z"
-         sodipodi:nodetypes="ccccccccc" />
-      <path
-         id="rect1-6-8-61-48"
-         style="fill:#ffb8a3;fill-opacity:1;stroke-width:1.99878;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-         d="m 109,54 v 10 h 2 1 2 v -3 -4 -3 h -2 -1 z"
-         sodipodi:nodetypes="ccccccccccc" />
+         style="fill:#ffffff;stroke-width:0.0430632"
+         d="M 3.8846023,19.958381 C 3.6404596,19.868778 3.4792761,19.738409 3.3590974,19.533339 L 3.2512732,19.349351 V 12.349462 5.349573 L 3.3912287,5.1419601 C 3.4852265,5.0025216 3.601464,4.8984027 3.7452086,4.8248849 3.958622,4.7157353 3.9629565,4.7153869 5.2631872,4.7028701 l 1.303954,-0.012553 2.402e-4,-0.9348382 C 6.5675149,3.2360705 6.5876955,2.7483552 6.6127938,2.6579768 6.6749294,2.4342277 6.8908616,2.2019909 7.1481813,2.0821632 l 0.2156295,-0.1004137 3.6603742,5.251e-4 c 3.589818,5.15e-4 3.664109,0.00222 3.854158,0.088244 0.201743,0.091322 0.402179,0.257864 0.488167,0.4056162 0.03263,0.056067 0.05764,0.454356 0.07165,1.1411754 l 0.02153,1.0550489 1.313429,0.021763 c 0.722385,0.01197 1.352185,0.039455 1.399554,0.061079 0.235369,0.1074432 0.450853,0.2963565 0.534032,0.4681832 l 0.09039,0.18671 v 6.9490497 6.949049 l -0.09039,0.18671 c -0.09506,0.196377 -0.337606,0.392112 -0.594287,0.4796 -0.108718,0.03706 -1.936897,0.04911 -7.105431,0.04686 -5.8335955,-0.0025 -6.9854665,-0.01273 -7.1223907,-0.06298 z M 17.720516,12.359145 V 5.5551555 H 16.062582 14.404648 V 4.1986641 2.8421726 H 11.024185 7.6437218 V 4.1986641 5.5551555 H 5.9857878 4.3278537 v 6.8039895 6.803988 h 6.6963313 6.696331 z"
+         id="path1" />
     </g>
   </g>
 </svg>

@@ -3,8 +3,8 @@
    id="svg7"
    version="1.1"
    viewBox="0 0 22 22"
-   sodipodi:docname="software-updates-updates.svg"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="kpackagekit-updates.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -18,11 +18,11 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="13.386364"
-     inkscape:cx="33.578947"
-     inkscape:cy="33.765705"
-     inkscape:window-width="2560"
-     inkscape:window-height="1364"
+     inkscape:zoom="26.772728"
+     inkscape:cx="12.606112"
+     inkscape:cy="12.008489"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -58,7 +58,7 @@
      transform="translate(0.99999998,2)">
     <g
        id="g2"
-       transform="translate(-34,-29)">
+       transform="matrix(0.90573208,0,0,0.90217484,-29.74905,-25.177704)">
       <g
          id="g2-3"
          transform="matrix(1,0,0,-1,32,50)">
