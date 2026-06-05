@@ -4,10 +4,10 @@
    viewBox="0 0 22 22"
    version="1.1"
    id="svg1"
-   sodipodi:docname="go-next-symbolic.svg"
+   sodipodi:docname="go-next.svg"
    width="22"
    height="22"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,10 +23,10 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
      inkscape:zoom="32.313477"
-     inkscape:cx="3.4505727"
-     inkscape:cy="13.523769"
+     inkscape:cx="3.4660461"
+     inkscape:cy="10.692133"
      inkscape:window-width="2560"
-     inkscape:window-height="1367"
+     inkscape:window-height="1366"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -54,13 +54,10 @@
    .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
   </style>
   </defs>
-  <g
-     transform="matrix(0,1.1374635,-1.3404152,0,21.725166,1.9148436)"
-     id="g1">
-    <path
-       style="fill:currentColor"
-       class="ColorScheme-Text"
-       d="M 7.381,14 V 4.518 L 3.598,8.229 2.685,7.315 8,2 13.266,7.266 12.352,8.179 8.581,4.518 V 14 Z"
-       id="path1" />
-  </g>
+  <path
+     id="path1-2"
+     d="m 17.851196,10.915139 c -0.438105,0.481184 -2.452702,2.685633 -2.452702,2.685633 l -4.059583,4.300052 c 0,0 -1.214344,-1.247836 -0.650319,-1.87992 l 3.780437,-3.967543 -9.6992644,0.06951 c 0,0 -0.7609218,0.188486 -0.6900722,-1.063535 -0.068248,-1.1760266 0.6864949,-1.033332 0.6864949,-1.033332 L 14.448746,10.001138 10.617711,6.0030289 C 9.925551,5.3073756 11.286144,4.1247141 11.286144,4.1247141 l 4.12472,4.2047184 c 0,0 2.00643,2.1470435 2.440567,2.6421185 z"
+     style="clip-rule:evenodd;fill:#e6f9ff;fill-opacity:1;fill-rule:evenodd;stroke:#4972c5;stroke-width:0.216345;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccccc" />
 </svg>

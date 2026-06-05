@@ -5,7 +5,7 @@
    version="1.1"
    id="svg2"
    sodipodi:docname="battery-030-charging.svg"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.3 (unknown)"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -21,10 +21,10 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="18"
-     inkscape:cx="24.972222"
-     inkscape:cy="18.944444"
-     inkscape:window-width="2560"
-     inkscape:window-height="1344"
+     inkscape:cx="24.916667"
+     inkscape:cy="18.972222"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -63,7 +63,7 @@
     </style><g
      id="g1"><g
        id="g2"
-       transform="matrix(1,0,0,0.84965368,0,2.3090452)"><g
+       transform="matrix(0.93125597,0,0,0.78634996,1.1319378,3.383614)"><g
          id="g1-1"
          transform="matrix(-0.00504431,0.99999033,-1.1470388,-0.00439764,34.574651,0.17457686)"><g
            id="g81"
@@ -73,7 +73,7 @@
              d="m 38,173 c -1.107999,0 -2,0.892 -2,2 v 14 c 0,1.108 0.892001,2 2,2 h 19 c 1.107999,0 2,-0.892 2,-2 v -2 h 1 c 1.107999,0 2,-0.892 2,-2 v -6 c 0,-1.108 -0.892001,-2 -2,-2 h -1 v -2 c 0,-1.108 -0.892001,-2 -2,-2 z"
              sodipodi:nodetypes="sssssscsssscsss" /><path
              id="rect2-2-8"
-             style="fill:#69718b;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             style="fill:#a3c3a0;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
              d="m 38,174 c -0.553999,0 -1,0.446 -1,1 v 14 c 0,0.554 0.446001,1 1,1 h 19 c 0.553999,0 1,-0.446 1,-1 v -3 h 1.998047 C 60.553007,186 61,185.55301 61,184.99805 v -5.99609 C 61,178.447 60.553007,178 59.998047,178 H 58 v -3 c 0,-0.554 -0.446001,-1 -1,-1 z"
              sodipodi:nodetypes="sssssscsssscsss" /><path
              id="rect3-6-43"
@@ -90,10 +90,7 @@
              sodipodi:nodetypes="cccccccccccccccccccccccccccc" /><path
              id="rect13-9"
              style="fill:#ffb8a3;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-             d="m 39,176 v 12 h 2 2 2 v -12 h -2 -2 z" /></g><path
-           style="fill:#ffffff;stroke-width:0.0555556"
-           d="M 4.7666703,27.995571 C 4.4057666,27.942648 3.9774944,27.742893 3.7870271,27.538647 3.7157254,27.462187 3.6350718,27.303462 3.6077969,27.185925 3.5414768,26.900129 3.5425188,8.2076959 3.6088712,7.9166667 3.6737099,7.632276 3.9995386,7.3338049 4.3990597,7.1928247 4.6677037,7.0980276 4.9240878,7.0867388 7.2311454,7.0681269 L 9.7678461,7.0476624 9.7867011,5.9499541 9.8055556,4.8522458 9.9617783,4.6475353 C 10.165181,4.3810021 10.569432,4.1802627 11.039722,4.1122609 c 0.501967,-0.072582 9.418589,-0.072582 9.920556,0 0.47029,0.068002 0.874541,0.2687412 1.077944,0.5352744 l 0.156222,0.2047105 0.01885,1.0977083 0.01886,1.0977083 2.5367,0.020465 c 2.307058,0.018612 2.563442,0.029901 2.832087,0.1246978 0.399521,0.1409802 0.725349,0.4394513 0.790188,0.723842 0.06635,0.2910292 0.06739,18.9834618 0.0011,19.2692578 -0.09522,0.410349 -0.552984,0.717968 -1.209703,0.812925 -0.46605,0.06739 -21.9553551,0.06424 -22.4158297,-0.0033 z M 26.888889,17.555556 V 8.0555556 h -3.111111 -3.111111 v -1.5 -1.5 H 16 11.333333 v 1.5 1.5 H 8.2222222 5.1111111 v 9.5000004 9.5 H 16 26.888889 Z"
-           id="path1" /></g><g
+             d="m 39,176 v 12 h 2 2 2 v -12 h -2 -2 z" /></g></g><g
          fill-rule="nonzero"
          id="g5"
          transform="matrix(0.54819215,0,0,0.49716851,-13.086329,7.1847301)"><path

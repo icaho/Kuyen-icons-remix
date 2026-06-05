@@ -7,7 +7,7 @@
    viewBox="0 0 64 64"
    version="1.1"
    id="svg8"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    sodipodi:docname="systemsettings.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -28,14 +28,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="22.406447"
-     inkscape:cy="22.760001"
+     inkscape:cx="22.362253"
+     inkscape:cy="22.848389"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:window-width="2560"
-     inkscape:window-height="1344"
+     inkscape:window-height="1366"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -81,7 +81,7 @@
      transform="translate(0,-250.64999)">
     <g
        id="g1"
-       transform="matrix(0.96435954,0,0,0.96578516,1.184689,9.5824375)">
+       transform="matrix(0.90305794,0,0,0.89878108,3.102146,28.565332)">
       <path
          style="opacity:1;vector-effect:none;fill:#a5b8cd;fill-opacity:1;stroke:none;stroke-width:2.28938;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m 5,251.64999 h 54 c 2.216,0 4,1.784 4,4 v 54 c 0,2.216 -1.784,4 -4,4 H 5 c -2.216,0 -4,-1.784 -4,-4 v -54 c 0,-2.216 1.784,-4 4,-4 z"

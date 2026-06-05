@@ -1,417 +1,131 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    width="22"
    height="22"
-   viewBox="0 0 22 22"
-   version="1.1"
-   id="svg5"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   version="1"
+   id="svg8"
    sodipodi:docname="kdeconnect-tray.svg"
-   xml:space="preserve"
+   inkscape:version="1.4.3 (unknown)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
-     id="namedview7"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview8"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
-     inkscape:showpageshadow="false"
+     inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="26.910888"
-     inkscape:cx="0.72461377"
-     inkscape:cy="10.553349"
-     inkscape:window-width="2560"
-     inkscape:window-height="1367"
+     inkscape:zoom="36.681818"
+     inkscape:cx="10.972739"
+     inkscape:cy="11.054523"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g2-7"><inkscape:grid
-       type="xygrid"
-       id="grid3636"
+     inkscape:current-layer="svg8">
+    <inkscape:grid
+       id="grid8"
+       units="px"
        originx="0"
        originy="0"
-       spacingy="1"
        spacingx="1"
-       units="px"
-       visible="true" /></sodipodi:namedview><defs
-     id="defs2"><style
-       type="text/css"
-       id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#36404d;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-67">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-7">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-5">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-6">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-1">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-10"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-5-7"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-1-2"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-10-9">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-60">
-      .ColorScheme-Text {
-        color:#36404d;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-67-6">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-7-2">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-5-6">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-6-1">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-1-8">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-10-7"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-5-7-9"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-1-2-2"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-10-9-0">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-62"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-6-9"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-67-1">
-      .ColorScheme-Text {
-        color:#36404d;
-      }
-      </style><style
-       id="current-color-scheme-0"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-6-2"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-67-3">
-      .ColorScheme-Text {
-        color:#36404d;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-3">
-      .ColorScheme-Text {
-        color:#36404d;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-67-5">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-7-6">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-5-2">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-6-91">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-1-27">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-10-0"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-5-7-93"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-1-2-6"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-10-9-06">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-60-2">
-      .ColorScheme-Text {
-        color:#36404d;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-67-6-6">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-7-2-1">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-5-6-8">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-6-1-7">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-1-8-9">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-10-7-2"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-5-7-9-0"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-1-2-2-2"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-10-9-0-3">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-62-7"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-6-9-5"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-67-1-9">
-      .ColorScheme-Text {
-        color:#36404d;
-      }
-      </style><style
-       id="current-color-scheme-0-2"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-6-2-2"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-67-3-8">
-      .ColorScheme-Text {
-        color:#36404d;
-      }
-      </style><style
-       id="current-color-scheme-9"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-7-3"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       id="current-color-scheme-5-67"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style></defs><g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="matrix(1.2813519,0,0,1,-3.0577109,0)"><g
-       id="g2-7"
-       transform="matrix(3.7795276,0,0,3.4213903,-1.0000001,0.11850628)"><path
-         id="rect1728-7-3"
-         style="fill:#4b6377;fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.8;paint-order:fill markers stroke;stop-color:#000000"
-         d="m 1.8520833,0.79374999 h 2.6458343 c 0.1465792,0 0.2645834,0.11800416 0.2645834,0.26458331 v 4.2333332 c 0,0.1465791 -0.1180042,0.2645833 -0.2645834,0.2645833 H 1.8520833 C 1.7055042,5.5562498 1.5875,5.4382456 1.5875,5.2916665 V 1.0583333 c 0,-0.14657915 0.1180042,-0.26458331 0.2645833,-0.26458331 z"
-         sodipodi:nodetypes="sssssssss" /><path
-         id="rect3634-6"
-         style="opacity:1;fill:#60b6fe;fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.8;paint-order:fill markers stroke;stop-color:#000000"
-         d="M 1.8520833,1.0583333 H 4.4979166 V 5.2916664 H 1.8520833 Z" /><path
-         id="rect1728-1"
-         style="opacity:1;fill:#363c4d;fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.8;paint-order:fill markers stroke;stop-color:#000000"
-         d="m 1.706296,0.52916666 c -0.2931574,0 -0.3833793,0.18170432 -0.3833793,0.47486174 v 4.2876382 c 0,0.2931574 0.1055718,0.5530286 0.3987253,0.5508887 L 4.697415,5.8208333 C 4.9905685,5.8186934 5.0265519,5.584823 5.0270833,5.2916666 l 0.00767,-4.2333333 C 5.0352877,0.76517688 4.9905373,0.55730579 4.697415,0.55088864 L 3.7052002,0.52916666 H 2.6447998 Z M 1.8510533,0.79374999 H 2.38125 3.96875 4.4989502 c 0.1461319,0 0.2635498,0.11741778 0.2635498,0.26354981 V 5.2927002 C 4.7625,5.4388321 4.6450821,5.55625 4.4989502,5.55625 H 1.8510498 C 1.7049177,5.55625 1.5875,5.4388321 1.5875,5.2927002 V 1.0572998 c 0,-0.14613203 0.1174177,-0.26354981 0.2635498,-0.26354981 z m 1.0593668,0 h 0.5291632 z"
-         sodipodi:nodetypes="ssssssssccscccsssssssscccc" /><path
-         id="rect6388-2"
-         style="opacity:1;fill:#363c4d;fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.8;paint-order:fill markers stroke;stop-color:#000000"
-         d="m 2.5135416,4.7624998 h 1.3229166 c 0.07329,0 0.1322917,0.059002 0.1322917,0.1322917 0,0.07329 -0.059002,0.1322917 -0.1322917,0.1322917 H 2.5135416 c -0.07329,0 -0.1322917,-0.059002 -0.1322917,-0.1322917 0,-0.07329 0.059002,-0.1322917 0.1322917,-0.1322917 z" /><g
-         id="g2-3-9"
-         transform="translate(6.3264728,-1.3229166)"
-         style="fill:#363c4d;fill-opacity:1"><path
-           id="rect2-3"
-           style="fill:#363c4d;fill-opacity:1;stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-           d="m -3.8242999,2.645882 c -0.067487,0.0034 -0.1209229,0.058763 -0.1209229,0.127124 v 0.010335 c 0,0.070566 0.056558,0.127124 0.127124,0.127124 h 0.010335 c 0.070566,0 0.127124,-0.056558 0.127124,-0.127124 V 2.773006 c 0,-0.070566 -0.056558,-0.127124 -0.127124,-0.127124 h -0.010335 c -0.00221,0 -0.00402,-1.097e-4 -0.0062,0 z m 0.5405354,0 c -0.07329,0 -0.1322916,0.059002 -0.1322916,0.1322916 0,0.07329 0.059002,0.1322917 0.1322916,0.1322917 h 0.79375 c 0.07329,0 0.1322917,-0.059002 0.1322917,-0.1322917 0,-0.07329 -0.059002,-0.1322916 -0.1322917,-0.1322916 z" /></g></g><path
-       d="M 9.4991088,8.2648078 C 9.3234742,8.2651688 9.1603497,8.3484985 9.0702571,8.4849983 L 7.5678156,10.74796 c -0.09445,0.143058 -0.09445,0.322086 0,0.465148 l 1.5024415,2.265612 c 0.090973,0.135217 0.2539465,0.217888 0.4288517,0.217546 h 3.0009752 c 0.174916,3.45e-4 0.337852,-0.08232 0.428837,-0.217546 l 1.498552,-2.265609 c 0.09441,-0.143059 0.09441,-0.322087 0,-0.465149 L 12.928936,8.485002 C 12.838866,8.3484988 12.675745,8.2651709 12.5001,8.2648116 Z m 1.4741102,1.8110752 c 0.0087,-1.96e-4 0.01776,0 0.02646,0 0.554181,0 1.000324,0.403868 1.000324,0.905537 0,0.501667 -0.446143,0.905538 -1.000324,0.905538 -0.554181,0 -1.000324,-0.403869 -1.000324,-0.905538 0,-0.493828 0.431834,-0.893187 0.97395,-0.905537 z"
-       fill="#e1ebf2"
-       id="path11"
-       style="fill:#3173c9;fill-opacity:1;stroke-width:3.596" /><g
-       id="g2-7-6"
-       transform="matrix(3.7795276,0,0,3.4213903,-23.685179,6.1895143)"><path
-         id="rect1728-1-3"
-         style="opacity:1;fill:#e1ebf2;fill-opacity:1;stroke-width:0.584274;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.8;paint-order:fill markers stroke;stop-color:#000000"
-         d="m 7.7022089,-1.5018382 c -0.324735,0 -0.5861661,0.259745 -0.5861661,0.58238551 V 3.7396313 c 0,0.3226407 0.2614311,0.5823856 0.5861661,0.5823856 H 10.63304 c 0.324735,0 0.586167,-0.2597449 0.586167,-0.5823856 v -4.65908399 c 0,-0.32264051 -0.261432,-0.58238551 -0.586167,-0.58238551 H 9.7549356 8.5803134 Z m -0.00114,0.2911927 h 0.5873072 1.7584979 0.587316 c 0.161872,0 0.405392,0.1292272 0.405128,0.29005536 l -0.0076,4.61587954 c -2.63e-4,0.1608281 -0.235711,0.3355348 -0.397583,0.3355348 H 7.7010641 c -0.1618728,0 -0.3749444,-0.1178568 -0.3749444,-0.2786854 v -4.6954687 c 0,-0.1608287 0.2130716,-0.2673156 0.3749444,-0.2673156 z m 1.1734771,0 h 0.5861625 z"
-         sodipodi:nodetypes="ssssssssccscccsssssssscccc" /></g></g><style
-     id="current-color-scheme-53"
-     type="text/css">.ColorScheme-Highlight {
-    color:#3daee9;
-}
-.ColorScheme-Text {
-    color:#232629;
-}</style></svg>
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <rect
+     style="opacity:1;fill:#bbbbbb;fill-opacity:1;fill-rule:nonzero;stroke-width:0.945906"
+     width="14.945476"
+     height="17.960045"
+     x="3.5972741"
+     y="2.0631969"
+     rx="0.99636507"
+     ry="0.89800233"
+     id="rect1-6" />
+  <rect
+     style="opacity:0.2;stroke-width:0.880227"
+     width="13.802424"
+     height="16.840481"
+     x="4.1760502"
+     y="2.9268267"
+     rx="0.9201616"
+     ry="0.84202415"
+     id="rect1" />
+  <path
+     style="fill:#e4e4e4;stroke-width:0.880227"
+     d="m 5.0962117,2.5058146 c -0.5097695,0 -0.9201616,0.3755427 -0.9201616,0.8420242 V 4.1898629 H 17.978475 V 3.3478388 c 0,-0.4664815 -0.410393,-0.8420242 -0.920162,-0.8420242 z M 4.1760501,15.9782 v 2.526073 c 0,0.466482 0.4103921,0.842025 0.9201616,0.842025 H 17.058313 c 0.509769,0 0.920162,-0.375543 0.920162,-0.842025 V 15.9782 Z"
+     id="path1" />
+  <rect
+     style="fill:#3f3f3f;stroke-width:0.880227"
+     width="13.802424"
+     height="11.788339"
+     x="4.1760502"
+     y="4.1898627"
+     id="rect2" />
+  <rect
+     style="fill:#4d4d4d;stroke-width:0.880227"
+     width="2.7604847"
+     height="1.6840483"
+     x="9.6970205"
+     y="16.820225"
+     rx="0.4600808"
+     ry="0.42101207"
+     id="rect3" />
+  <rect
+     style="fill:#4d4d4d;stroke-width:0.880227"
+     width="1.8403232"
+     height="0.84202415"
+     x="14.297828"
+     y="16.820225"
+     rx="0.4600808"
+     ry="0.42101207"
+     id="rect4" />
+  <rect
+     style="fill:#4d4d4d;stroke-width:0.880227"
+     width="1.8403232"
+     height="0.84202415"
+     x="6.0163732"
+     y="16.820225"
+     rx="0.4600808"
+     ry="0.42101207"
+     id="rect5" />
+  <path
+     style="opacity:0.2;stroke-width:0.880227"
+     d="M 14.114716,5.4528991 12.451984,8.1467027 V 5.454583 L 10.617182,5.7883615 V 11.27297 l 1.834802,-0.262713 V 8.8209956 l 1.662732,2.5260724 2.012393,-0.842024 -2.289363,-2.0211949 2.311447,-2.1889259 z m -5.99927,1.0114393 c -0.022544,0.00252 -0.047573,0.00733 -0.064687,0.022987 L 7.2654007,7.2011093 c -0.032941,0.03006 -0.036806,0.075446 -0.012606,0.1118209 L 8.0885774,8.5661148 C 7.8922148,8.8580447 7.739836,9.1754877 7.6374221,9.5131394 L 6.0972556,9.80448 c -0.046744,0.00845 -0.080882,0.049676 -0.080882,0.093464 v 1.008746 c 0,0.04211 0.035518,0.0783 0.080882,0.08841 l 1.4934222,0.329231 c 0.09404,0.379753 0.2528604,0.737613 0.4636695,1.063478 l -0.8698288,1.204096 c -0.026317,0.03705 -0.021439,0.08589 0.012606,0.117042 l 0.785358,0.713195 c 0.033126,0.03031 0.084287,0.03368 0.1240377,0.01179 l 1.3586186,-0.750244 c 0.335859,0.183562 0.7020832,0.324181 1.0913112,0.413434 l 0.317457,1.385972 c 0.01012,0.04294 0.04877,0.0741 0.09753,0.0741 h 1.110636 c 0.046,0 0.08558,-0.0278 0.09662,-0.06904 l 0.377266,-1.396075 c 0.392909,-0.09346 0.758213,-0.243345 1.094992,-0.432801 l 1.36368,0.812553 c 0.04048,0.02358 0.09385,0.01937 0.127902,-0.01179 l 0.782138,-0.71151 c 0.03313,-0.03031 0.04048,-0.07748 0.01564,-0.113673 l -0.533695,-0.797398 -0.17391,0.04884 c -0.02576,0.0077 -0.05337,-0.0026 -0.06901,-0.02274 0,0 -0.164709,-0.205455 -0.296293,-0.368807 -0.0543,-0.07578 -0.507008,-0.57847 -0.818943,-0.94391 A 2.7604847,2.5260723 0 0 1 11.53734,13.031119 2.7604847,2.5260723 0 0 1 8.7768551,10.505047 2.7604847,2.5260723 0 0 1 10.065082,8.3703477 V 7.0316943 C 9.8598884,7.1014982 9.7255448,7.1868794 9.5369117,7.2849751 L 8.178385,6.4774741 C 8.1582334,6.4653482 8.137898,6.4623172 8.115446,6.4643384 Z"
+     id="path5" />
+  <path
+     style="fill:#ffffff;stroke-width:0.880227"
+     d="M 14.114716,5.0318869 12.451984,7.7256905 V 5.033571 l -1.834802,0.3337785 v 5.4846085 l 1.834802,-0.262713 V 8.3999835 l 1.662732,2.5260725 2.012393,-0.842024 -2.289363,-2.021195 2.311447,-2.1889258 z m -5.99927,1.0114396 c -0.022544,0.00252 -0.047573,0.00733 -0.064687,0.022987 l -0.7853582,0.713784 c -0.032941,0.03006 -0.036806,0.075446 -0.012606,0.1118209 L 8.0885774,8.1451031 C 7.8922149,8.4370325 7.7398361,8.7544757 7.6374222,9.0921273 L 6.0972556,9.3834677 c -0.046744,0.00842 -0.080882,0.049679 -0.080882,0.093465 v 1.0087443 c 0,0.04211 0.035518,0.0783 0.080882,0.08841 l 1.4934222,0.329231 c 0.09404,0.379753 0.2528604,0.737613 0.4636695,1.063477 L 7.1845185,13.17089 c -0.026317,0.03704 -0.021439,0.08588 0.012606,0.117041 l 0.785358,0.713195 c 0.033126,0.03031 0.084287,0.03368 0.1240377,0.01179 l 1.3586186,-0.750242 c 0.335859,0.18356 0.7020832,0.324178 1.0913112,0.413434 l 0.317457,1.385971 c 0.01012,0.04294 0.04877,0.0741 0.09753,0.0741 h 1.110636 c 0.046,0 0.08558,-0.0278 0.09662,-0.06904 l 0.377266,-1.396076 c 0.392909,-0.09346 0.758213,-0.243346 1.094992,-0.4328 l 1.36368,0.812552 c 0.04048,0.02358 0.09385,0.01937 0.127902,-0.01179 l 0.782138,-0.711511 c 0.03313,-0.03031 0.04048,-0.07747 0.01564,-0.113673 l -0.533695,-0.797396 -0.17391,0.04884 c -0.02576,0.0077 -0.05337,-0.0026 -0.06901,-0.02274 0,0 -0.164709,-0.205454 -0.296293,-0.368806 -0.0543,-0.07578 -0.507008,-0.578471 -0.818943,-0.943908 A 2.7604847,2.5260723 0 0 1 11.537343,12.610103 2.7604847,2.5260723 0 0 1 8.7768582,10.084032 2.7604847,2.5260723 0 0 1 10.065085,7.9493322 V 6.6106821 C 9.8598884,6.6804859 9.7255448,6.7658672 9.5369117,6.8639631 L 8.178385,6.0564619 C 8.1582334,6.044337 8.137898,6.041305 8.115446,6.0433265 Z"
+     id="path6" />
+  <path
+     style="opacity:0.2;fill:#ffffff;stroke-width:0.880227"
+     d="m 5.0962117,2.5058146 c -0.5097695,0 -0.9201616,0.3755427 -0.9201616,0.8420242 v 0.4210121 c 0,-0.4664815 0.4103921,-0.8420243 0.9201616,-0.8420243 H 17.058313 c 0.509769,0 0.920162,0.3755428 0.920162,0.8420243 V 3.3478388 c 0,-0.4664815 -0.410393,-0.8420242 -0.920162,-0.8420242 z"
+     id="path7" />
+  <rect
+     style="opacity:0.2;stroke-width:0.880227"
+     width="13.802424"
+     height="0.42101207"
+     x="4.1760502"
+     y="4.1898627"
+     id="rect7" />
+  <rect
+     style="opacity:0.2;fill:#ffffff;stroke-width:0.880227"
+     width="13.802424"
+     height="0.42101207"
+     x="4.1760502"
+     y="15.978198"
+     id="rect8" />
+</svg>

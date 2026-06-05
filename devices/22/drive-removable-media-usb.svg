@@ -7,8 +7,8 @@
    viewBox="0 0 22 22"
    version="1.1"
    id="svg5"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
-   sodipodi:docname="drive-removable-media.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="drive-removable-media-usb.svg"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,10 +25,10 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="26.910887"
-     inkscape:cx="22.091431"
-     inkscape:cy="9.9587947"
+     inkscape:cx="22.110011"
+     inkscape:cy="10.014534"
      inkscape:window-width="2560"
-     inkscape:window-height="1356"
+     inkscape:window-height="1366"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -124,7 +124,7 @@
      inkscape:groupmode="layer"
      id="layer1"><g
        id="g1"
-       transform="translate(-23,8.999999)"><path
+       transform="matrix(0.89264981,0,0,0.80305371,-19.424413,9.3938918)"><path
          id="rect1515"
          style="fill:#a5b9cf;fill-opacity:0.811765;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.8;paint-order:fill markers stroke;stop-color:#000000"
          d="m 26,6.0000012 h 16.000001 c 0.554001,0 1,0.4459997 1,0.9999999 v 4.0000009 c 0,0.554 -0.445999,1 -1,1 H 26 c -0.554,0 -1,-0.446 -1,-1 V 7.0000011 c 0,-0.5540002 0.446,-0.9999999 1,-0.9999999 z" /><path

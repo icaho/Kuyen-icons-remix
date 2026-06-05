@@ -7,7 +7,7 @@
    viewBox="0 0 22 22"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    sodipodi:docname="network-wired.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,10 +24,10 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="23.221672"
-     inkscape:cx="6.2656986"
+     inkscape:cx="6.2441671"
      inkscape:cy="11.433285"
-     inkscape:window-width="1920"
-     inkscape:window-height="1006"
+     inkscape:window-width="2560"
+     inkscape:window-height="1366"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -56,7 +56,7 @@
      id="layer1">
     <g
        id="g1"
-       transform="matrix(0.89664826,0,0,0.89880142,0.3263477,-27.669993)">
+       transform="matrix(0.79760284,0,0,0.80190916,1.4718294,-23.482095)">
       <path
          id="rect1728-9"
          style="fill:#a3b7cc;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.8;paint-order:fill markers stroke;stop-color:#000000"

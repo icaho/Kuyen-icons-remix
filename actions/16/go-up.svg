@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="go-up.svg"
+   width="16"
+   height="16"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="30.101589"
+     inkscape:cx="2.9068233"
+     inkscape:cy="10.481174"
+     inkscape:window-width="1890"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+  </defs>
+  <path
+     id="path1"
+     d="m 7.9870405,3.0585953 c 0.3438557,0.315839 1.9191393,1.7681789 1.9191393,1.7681789 l 3.0723812,2.9261423 c 0,0 -0.899075,0.8673535 -1.350801,0.4606965 L 8.7930655,5.4887942 8.8125376,12.448025 c 0,0 0.1328464,0.546535 -0.7652042,0.491777 -0.8439657,0.04528 -0.739223,-0.495784 -0.739223,-0.495784 L 7.3206443,5.4969133 4.4401616,8.2330654 c -0.5012714,0.49443 -1.345516,-0.485474 -1.345516,-0.485474 l 3.029637,-2.9462159 c 0,0 1.5467026,-1.4328397 1.9032581,-1.742772 z"
+     style="clip-rule:evenodd;fill:#e6f9ff;fill-opacity:1;fill-rule:evenodd;stroke:#4972c5;stroke-width:0.154974;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccccc" />
+</svg>

@@ -5,7 +5,7 @@
    version="1.1"
    id="svg1"
    sodipodi:docname="network-wireless-connected-25.svg"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -306,7 +306,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
      inkscape:zoom="26.363636"
-     inkscape:cx="14.887931"
+     inkscape:cx="14.868966"
      inkscape:cy="19.363793"
      inkscape:window-width="1284"
      inkscape:window-height="1080"
@@ -369,7 +369,7 @@
       }
       </style><g
      id="path5-6"
-     transform="matrix(0.65874514,0,0,0.7264534,-193.65841,-133.76616)"><path
+     transform="matrix(0.59730616,0,0,0.68431077,-174.55274,-125.83215)"><path
        style="color:#000000;fill:#da354e;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
        d="m 311.01121,204.79102 c -1.45667,-0.0747 -2.88527,0.4317 -3.96875,1.4082 -0.56434,0.50877 -0.60979,1.37854 -0.10156,1.94336 l 2.76367,3.06836 c 0.54981,0.61156 1.50966,0.60782 2.05469,-0.008 l 2.73632,-3.09375 c 0.50245,-0.56926 0.44915,-1.43785 -0.11914,-1.9414 -0.93356,-0.82667 -2.11993,-1.31259 -3.36523,-1.37695 z"
        id="path13" /><path

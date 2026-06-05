@@ -4,10 +4,10 @@
    viewBox="0 0 22 22"
    version="1.1"
    id="svg1"
-   sodipodi:docname="go-previous-symbolic.svg"
+   sodipodi:docname="go-previous.svg"
    width="22"
    height="22"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -22,11 +22,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
-     inkscape:zoom="38.720459"
-     inkscape:cx="5.8237946"
-     inkscape:cy="7.8769727"
+     inkscape:zoom="35.185613"
+     inkscape:cx="9.3788333"
+     inkscape:cy="10.586713"
      inkscape:window-width="2560"
-     inkscape:window-height="1367"
+     inkscape:window-height="1366"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -54,13 +54,10 @@
    .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
   </style>
   </defs>
-  <g
-     transform="matrix(0,1.1366849,1.3314355,0,0.31852245,1.9563412)"
-     id="g1">
-    <path
-       style="fill:currentColor"
-       class="ColorScheme-Text"
-       d="M 7.381,14 V 4.518 L 3.598,8.229 2.685,7.315 8,2 13.266,7.266 12.352,8.179 8.581,4.518 V 14 Z"
-       id="path1" />
-  </g>
+  <path
+     id="path1-5"
+     d="m 4.1264075,11.02427 c 0.443675,-0.476052 2.48379,-2.6569084 2.48379,-2.6569084 L 10.719546,4.1148429 c 0,0 1.199741,1.2618824 0.628398,1.8873602 l -3.8263515,3.9232805 9.6994165,0.04336 c 0,0 0.763064,-0.17962 0.677649,1.0714934 0.05456,1.176744 -0.698473,1.025277 -0.698473,1.025277 l -9.6821935,-0.08785 3.7842495,4.04242 c 0.684018,0.703661 -0.690247,1.870408 -0.690247,1.870408 L 6.5364855,13.638163 c 0,0 -1.981309,-2.170247 -2.409655,-2.67034 z"
+     style="clip-rule:evenodd;fill:#e6f9ff;fill-opacity:1;fill-rule:evenodd;stroke:#4972c5;stroke-width:0.216345;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccccc" />
 </svg>

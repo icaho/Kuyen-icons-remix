@@ -7,7 +7,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg8"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="plasmashell.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,15 +27,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="44.8"
-     inkscape:cx="12.533482"
-     inkscape:cy="17.935268"
+     inkscape:zoom="22.4"
+     inkscape:cx="15.267857"
+     inkscape:cy="19.441964"
      inkscape:document-units="px"
      inkscape:current-layer="g1507"
      showgrid="true"
      units="px"
-     inkscape:window-width="2160"
-     inkscape:window-height="1335"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -48,7 +48,12 @@
     <inkscape:grid
        type="xygrid"
        id="grid7897"
-       empspacing="4" />
+       empspacing="4"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -70,29 +75,33 @@
     <g
        id="g1507"
        transform="translate(11,-3)">
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:#1d86d9;fill-opacity:1;stroke-width:1.00000012"
-         d="m -10,287.64999 c -0.55401,0 -1,0.446 -1,1 v 26 c 0,0.554 0.44599,1 1,1 h 30 c 0.554009,0 1,-0.446 1,-1 v -26 c 0,-0.554 -0.445992,-1 -1,-1 H 6 3 Z"
-         id="path12329" />
-      <path
-         style="fill:#44acff;fill-opacity:1;stroke-width:1.00000012"
-         d="m -10,288.64999 v 22 h 30 v -22 H 5 3 Z"
-         id="path13-5-2-9-4-2-6-6"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccccc" />
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:#d1ebff;fill-opacity:1;stroke:none;stroke-width:0.40000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m -10,310.64999 v 4 h 30 v -4 z"
-         id="rect4537-2"
-         sodipodi:nodetypes="ccccc" />
-      <path
-         style="fill:#d1ebff;fill-opacity:1"
-         d="m 12,7 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 z m 6,0 -2,2 3,3 -3,3 2,2 3,-3 2,-2 -2,-2 z m -7.5,5 C 9.669,12 9,12.669 9,13.5 9,14.331 9.669,15 10.5,15 11.331,15 12,14.331 12,13.5 12,12.669 11.331,12 10.5,12 Z m 3.5,5 c -1.108,0 -2,0.892 -2,2 0,1.108 0.892,2 2,2 1.108,0 2,-0.892 2,-2 0,-1.108 -0.892,-2 -2,-2 z"
-         transform="translate(-11,285.64999)"
-         id="path4783-5-3"
-         sodipodi:nodetypes="ssssscccccccccssssssssss" />
+      <g
+         id="g1"
+         transform="matrix(0.87444196,0,0,0.92346938,0.58314732,23.085458)">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#1d86d9;fill-opacity:1;stroke-width:1"
+           d="m -10,287.64999 c -0.55401,0 -1,0.446 -1,1 v 26 c 0,0.554 0.44599,1 1,1 h 30 c 0.554009,0 1,-0.446 1,-1 v -26 c 0,-0.554 -0.445992,-1 -1,-1 H 6 3 Z"
+           id="path12329" />
+        <path
+           style="fill:#44acff;fill-opacity:1;stroke-width:1"
+           d="m -10,288.64999 v 22 h 30 v -22 H 5 3 Z"
+           id="path13-5-2-9-4-2-6-6"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccc" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#d1ebff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -10,310.64999 v 4 h 30 v -4 z"
+           id="rect4537-2"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#d1ebff;fill-opacity:1"
+           d="m 12,7 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 z m 6,0 -2,2 3,3 -3,3 2,2 3,-3 2,-2 -2,-2 z m -7.5,5 C 9.669,12 9,12.669 9,13.5 9,14.331 9.669,15 10.5,15 11.331,15 12,14.331 12,13.5 12,12.669 11.331,12 10.5,12 Z m 3.5,5 c -1.108,0 -2,0.892 -2,2 0,1.108 0.892,2 2,2 1.108,0 2,-0.892 2,-2 0,-1.108 -0.892,-2 -2,-2 z"
+           transform="translate(-11,285.64999)"
+           id="path4783-5-3"
+           sodipodi:nodetypes="ssssscccccccccssssssssss" />
+      </g>
     </g>
   </g>
 </svg>

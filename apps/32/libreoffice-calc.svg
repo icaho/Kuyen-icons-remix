@@ -7,7 +7,7 @@
    viewBox="0 0 8.4666667 8.4666667"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    sodipodi:docname="libreoffice-calc.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,20 +24,23 @@
      inkscape:deskcolor="#5e5e5e"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="5.1754899"
-     inkscape:cx="90.619441"
-     inkscape:cy="49.850353"
-     inkscape:window-width="2560"
-     inkscape:window-height="1363"
+     inkscape:zoom="20.70196"
+     inkscape:cx="38.740293"
+     inkscape:cy="24.949328"
+     inkscape:window-width="962"
+     inkscape:window-height="1096"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
        id="grid132"
        originx="0"
-       originy="0" />
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <defs
      id="defs2" />
@@ -47,7 +50,7 @@
      id="layer1">
     <g
        id="g3281"
-       transform="translate(-6.6146015,-2.6458336)">
+       transform="matrix(0.94484119,0,0,0.89296666,-5.9709986,-1.9004052)">
       <path
          id="path2011"
          style="color:#000000;fill:#30a86d;fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"

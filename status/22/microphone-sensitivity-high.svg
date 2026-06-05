@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="microphone-sensitivity-high.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="36.681818"
+     inkscape:cx="10.986369"
+     inkscape:cy="12.526642"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:0.2;stroke:#8c8c8c;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+     class="ColorScheme-Text"
+     d="m 11,2.9727386 c -1.9390665,0 -3.5043371,1.3422831 -3.5043371,3.0051115 v 5.0085189 c 0,1.662829 1.5652706,3.005112 3.5043371,3.005112 1.939066,0 3.504337,-1.342283 3.504337,-3.005112 V 5.9778501 C 14.504337,4.3150217 12.939066,2.9727386 11,2.9727386 Z M 3.9913259,9.9846654 v 1.0017036 c 0,2.975061 2.5231226,5.439252 5.8405618,5.92007 V 19 h 2.3362243 v -2.093561 c 3.31744,-0.480818 5.840562,-2.945009 5.840562,-5.92007 V 9.9846654 H 15.67245 v 1.0017036 c 0,2.233799 -2.06756,4.006816 -4.67245,4.006816 -2.6048905,0 -4.6724495,-1.773017 -4.6724495,-4.006816 V 9.9846654 Z"
+     id="path1" />
+</svg>

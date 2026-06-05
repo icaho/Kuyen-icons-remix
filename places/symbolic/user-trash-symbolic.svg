@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="16"
    viewBox="0 0 16 16"
    width="16"
    version="1.1"
    id="svg6"
    sodipodi:docname="user-trash-symbolic.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,20 +35,28 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1874"
-     inkscape:window-height="1141"
+     inkscape:window-width="1894"
+     inkscape:window-height="1048"
      id="namedview8"
      showgrid="true"
      inkscape:zoom="22.627417"
-     inkscape:cx="6.079156"
-     inkscape:cy="3.9376931"
-     inkscape:window-x="46"
-     inkscape:window-y="30"
+     inkscape:cx="6.0766989"
+     inkscape:cy="3.9553786"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
+     inkscape:current-layer="svg6"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid817" />
+       id="grid817"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -747,38 +755,19 @@
       </style>
   </defs>
   <g
-     id="g1061">
+     id="g2"
+     transform="matrix(1.0465365,0,0,0.91650612,0.15528235,0.59532396)">
     <path
-       sodipodi:nodetypes="sscssccsscsss"
-       inkscape:connector-curvature="0"
-       id="path821"
-       d="M 6,1 C 5.446,1 5,1.446 5,2 V 3 H 3 C 2.446,3 2,3.446 2,4 V 6 H 14 V 4 C 14,3.446 13.554,3 13,3 H 11 V 2 C 11,1.446 10.554,1 10,1 Z"
-       style="fill:#b1c2d5;fill-opacity:1;stroke:none" />
+       style="color:#dfdfdf;fill:currentColor"
+       class="ColorScheme-Text"
+       fill-opacity="0.82"
+       d="m 6.082,1.186 c 0,-0.454 0.369,-0.822 0.822,-0.822 h 1.168 c 0.453,0 0.821,0.368 0.821,0.822 h 3.378 c 0.243,0 0.476,0.096 0.647,0.268 0.172,0.172 0.268,0.722 0.268,0.965 H 1.79 C 1.79,2.176 1.886,1.626 2.058,1.454 2.229,1.282 2.462,1.186 2.705,1.186 Z M 7.991,9.739 7.489,12.573 4.94,12.121 5.441,9.288 Z M 9.397,5.053 10.546,7.691 8.173,8.725 7.023,6.087 Z"
+       id="path1" />
     <path
-       id="path4"
-       d="m 3,6 v 5 2 c 0,1.108 0.892,2 2,2 h 6 c 1.108,0 2,-0.892 2,-2 V 8 6 Z"
-       style="fill:#b1c2d5;fill-opacity:1;stroke:none" />
-    <path
-       sodipodi:nodetypes="cccsssscccccc"
-       inkscape:connector-curvature="0"
-       id="rect1032"
-       d="m 4,6 v 2 3 2 c 0,0.554 0.446,1 1,1 h 6 c 0.554,0 1,-0.446 1,-1 V 11 8 6 H 11 5 Z"
-       style="fill:#dfe9f2;fill-opacity:1;stroke:none;stroke-opacity:1" />
-    <path
-       id="rect1037"
-       d="M 6 2 L 6 4 L 3 4 L 3 5 L 13 5 L 13 4 L 10 4 L 10 2 L 6 2 z M 7 3 L 9 3 L 9 4 L 7 4 L 7 3 z "
-       style="fill:#dfe9f2;fill-opacity:1;stroke:none;stroke-opacity:1" />
-    <path
-       id="rect1045"
-       d="m 7,7 h 2 v 6 H 7 Z"
-       style="fill:#b1c2d5;fill-opacity:1;stroke:none;stroke-opacity:1" />
-    <path
-       id="rect1047"
-       d="m 10,7 h 1 v 6 h -1 z"
-       style="fill:#b1c2d5;fill-opacity:1;stroke:none;stroke-opacity:1" />
-    <path
-       id="rect1049"
-       d="m 5,7 h 1 v 6 H 5 Z"
-       style="fill:#b1c2d5;fill-opacity:1;stroke:none;stroke-opacity:1" />
+       style="color:#dfdfdf;fill:currentColor"
+       class="ColorScheme-Text"
+       fill-opacity="0.5"
+       d="m 13.186,2.631 c 0,0 -1.589,10.116 -1.762,11.798 -0.07,0.68 -0.469,1.285 -1.124,1.285 H 4.801 c -0.589,0 -1.124,-0.65 -1.179,-1.285 C 3.476,12.73 1.79,2.631 1.79,2.631 Z"
+       id="path2" />
   </g>
 </svg>

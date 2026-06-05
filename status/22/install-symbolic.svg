@@ -4,7 +4,7 @@
    version="1.1"
    viewBox="0 0 22 22"
    sodipodi:docname="install-symbolic.svg"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -20,9 +20,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="26.772728"
      inkscape:cx="14.398981"
-     inkscape:cy="14.100169"
-     inkscape:window-width="1920"
-     inkscape:window-height="1006"
+     inkscape:cy="14.062818"
+     inkscape:window-width="1890"
+     inkscape:window-height="1052"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -247,7 +247,7 @@
          id="g8"><g
            id="g3" /><g
            id="g2"
-           transform="matrix(0.9003974,0,0,0.90751071,1.1818644,1.1383297)"><path
+           transform="matrix(0.80790927,0,0,0.81324278,2.1699235,2.1290323)"><path
              id="rect1728"
              style="opacity:1;fill:#b1c2d5;fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.8;paint-order:fill markers stroke;stop-color:#000000"
              d="m 1.0583333,0.52916664 h 4.2333332 c 0.2931583,0 0.5291666,0.23600832 0.5291666,0.52916666 v 4.2333332 c 0,0.2931583 -0.2360083,0.5291666 -0.5291666,0.5291666 H 1.0583333 c -0.29315834,0 -0.52916666,-0.2360083 -0.52916666,-0.5291666 V 1.0583333 c 0,-0.29315834 0.23600832,-0.52916666 0.52916666,-0.52916666 z"

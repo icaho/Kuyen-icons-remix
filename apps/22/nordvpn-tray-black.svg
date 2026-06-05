@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    width="22"
-   height="20"
-   viewBox="0 0 367.4 334"
+   height="22"
+   viewBox="0 0 367.4 367.4"
    version="1.1"
    id="svg1"
    sodipodi:docname="nordvpn-tray-black.svg"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.2 (unknown)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -22,11 +22,11 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="57.05"
-     inkscape:cx="10"
-     inkscape:cy="12.147239"
-     inkscape:window-width="2560"
-     inkscape:window-height="1367"
+     inkscape:zoom="28.525"
+     inkscape:cx="15.863278"
+     inkscape:cy="11.936897"
+     inkscape:window-width="1920"
+     inkscape:window-height="1004"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -47,11 +47,37 @@
        enabled="true"
        visible="true" />
   </sodipodi:namedview>
-  <path
-     fill-rule="evenodd"
-     clip-rule="evenodd"
-     d="M 62.815891,283.61966 C 44.130521,258.53808 34.159003,228.28232 34.248837,197.325 c 0,-81.2082 67.285303,-147.332362 150.021963,-147.332362 83.00615,0 150.02193,65.861082 150.02193,147.332362 0.0441,31.04502 -9.9715,61.21308 -28.65688,86.29466 l -72.22613,-114.88416 -6.98006,11.48842 7.06989,32.0097 -49.5881,-82.96214 -30.72306,50.68935 7.14176,32.36049 -25.96188,-43.49812 -72.136297,114.88417 z"
-     fill="#000000"
-     id="path1"
-     style="stroke-width:0.887592" />
+  <ellipse
+     style="fill:#4d4d4d;stroke-width:31.18"
+     id="path2-5-3"
+     cx="184.58347"
+     cy="184.07108"
+     rx="158.80898"
+     ry="158.13559" />
+  <ellipse
+     style="fill:#e6e6e6;stroke-width:27.8223"
+     id="path2"
+     cx="183.24628"
+     cy="166.85364"
+     rx="150.461"
+     ry="132.89746"
+     transform="matrix(1,0,0,1.1277533,0,-4.3380137)" />
+  <g
+     id="g3"
+     transform="matrix(0.95223871,0,0,1.0738397,8.7699394,5.4315532)">
+    <ellipse
+       style="fill:#ffffff;stroke-width:26.3827"
+       id="path3"
+       cx="184.41718"
+       cy="165.39"
+       rx="143.43558"
+       ry="124.40842" />
+    <path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="m 67.499826,239.72354 c -17.919728,-21.43749 -27.48266,-47.29743 -27.396502,-73.75699 0,-69.409536 64.528256,-125.926585 143.874726,-125.926585 79.60494,0 143.87471,56.292191 143.87471,125.926585 0.0423,26.53452 -9.56291,52.3195 -27.48265,73.75699 l -69.26662,-98.19275 -6.69405,9.81927 6.78019,27.35905 -47.5562,-70.90865 -29.46417,43.32475 6.84912,27.65886 -24.89807,-37.17832 -69.180478,98.19275 z"
+       fill="#000000"
+       id="path1"
+       style="stroke-width:0.803596;fill:#4d4d4d" />
+  </g>
 </svg>

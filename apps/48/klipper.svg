@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="48"
    height="48"
    viewBox="0 0 48 48"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="klipper.svg">
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="klipper.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title7895">Antu icon Theme</title>
   <defs
@@ -78,16 +78,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="34.223445"
-     inkscape:cy="33.488559"
+     inkscape:cx="34.206289"
+     inkscape:cy="33.454988"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:window-width="1874"
-     inkscape:window-height="1141"
-     inkscape:window-x="46"
-     inkscape:window-y="30"
+     inkscape:window-width="2560"
+     inkscape:window-height="1366"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -98,11 +98,19 @@
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true">
+     inkscape:snap-intersection-paths="true"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid7897"
-       empspacing="4" />
+       empspacing="4"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -123,7 +131,7 @@
      transform="translate(0,-266.64999)">
     <g
        id="g4035"
-       transform="translate(36.904698,14.000005)">
+       transform="matrix(1.002326,0,0,0.95580582,36.978909,26.226325)">
       <path
          id="rect3069"
          d="M -28.904698,257.64998 H 3.0953016 c 1.662,0 3,1.338 3,3 v 35 c 0,1.662 -1.338,3 -3,3 H -28.904698 c -1.662,0 -3,-1.338 -3,-3 v -35 c 0,-1.662 1.338,-3 3,-3 z"
@@ -151,7 +159,7 @@
          inkscape:connector-curvature="0" />
       <path
          style="opacity:1;vector-effect:none;fill:#f6ffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="M 16 3 L 16 6 L 16 7 L 16 8 C 16 9.108 16.892 10 18 10 L 30 10 C 31.108 10 32 9.108 32 8 L 32 7 L 32 6 L 32 3 L 16 3 z M 22 4 C 22.554 4 23 4.446 23 5 C 23 5.554 22.554 6 22 6 C 21.446 6 21 5.554 21 5 C 21 4.446 21.446 4 22 4 z M 26 4 C 26.554 4 27 4.446 27 5 C 27 5.554 26.554 6 26 6 C 25.446 6 25 5.554 25 5 C 25 4.446 25.446 4 26 4 z "
+         d="m 16,3 v 3 1 1 c 0,1.108 0.892,2 2,2 h 12 c 1.108,0 2,-0.892 2,-2 V 7 6 3 Z m 6,1 c 0.554,0 1,0.446 1,1 0,0.554 -0.446,1 -1,1 -0.554,0 -1,-0.446 -1,-1 0,-0.554 0.446,-1 1,-1 z m 4,0 c 0.554,0 1,0.446 1,1 0,0.554 -0.446,1 -1,1 -0.554,0 -1,-0.446 -1,-1 0,-0.554 0.446,-1 1,-1 z"
          transform="translate(-36.904698,252.64999)"
          id="rect3356" />
     </g>

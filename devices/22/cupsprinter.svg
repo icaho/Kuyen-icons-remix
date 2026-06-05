@@ -5,9 +5,9 @@
    viewBox="0 0 22 22"
    version="1.1"
    id="svg44"
-   sodipodi:docname="cupsprinter.svg"
+   sodipodi:docname="printer.svg"
    xml:space="preserve"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -358,11 +358,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
-     inkscape:zoom="13.906434"
-     inkscape:cx="7.4425982"
-     inkscape:cy="-1.7617744"
-     inkscape:window-width="1890"
-     inkscape:window-height="1052"
+     inkscape:zoom="39.333335"
+     inkscape:cx="12.940677"
+     inkscape:cy="7.1567793"
+     inkscape:window-width="2560"
+     inkscape:window-height="1366"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -426,7 +426,7 @@
        stop-opacity="0"
        id="stop19" /></linearGradient><g
      id="g2"
-     transform="matrix(0.67161483,0,0,0.73366977,0.32375853,-208.2784)"><g
+     transform="matrix(0.59958094,0,0,0.66398992,1.4127415,-187.63707)"><g
        transform="translate(13,-5)"
        id="g4445"><path
          id="rect4155"
