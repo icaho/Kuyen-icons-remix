@@ -4,7 +4,7 @@
    version="1.1"
    viewBox="0 0 22 22"
    sodipodi:docname="update-low-symbolic.svg"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -21,8 +21,8 @@
      inkscape:zoom="26.772728"
      inkscape:cx="8.4974531"
      inkscape:cy="14.809847"
-     inkscape:window-width="1920"
-     inkscape:window-height="1006"
+     inkscape:window-width="1890"
+     inkscape:window-height="1052"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -438,7 +438,7 @@
        transform="translate(-0.9906624,-2)"><g
          id="g8"><g
            id="g3"
-           transform="matrix(0.9021748,0,0,0.90751076,1.1054007,1.0262753)"><g
+           transform="matrix(0.80612824,0,0,0.80790696,2.2837422,2.209071)"><g
              id="g2"
              transform="matrix(1,0,0,-1,-1.0093375,23)"><g
                inkscape:label="Capa 1"
